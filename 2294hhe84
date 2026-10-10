@@ -11,10 +11,6 @@ https://tv-trtturk.medya.trt.com.tr/master_1440.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://tv-trtavaz.medya.trt.com.tr/master_1440.m3u8
 
-#EXTINF:-1 group-title="TRT",TRT Belgesel
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-https://tv-trtbelgesel.medya.trt.com.tr/master_1440.m3u8
-
 #EXTINF:-1 group-title="TRT",TRT Müzik
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://tv-trtmuzik.medya.trt.com.tr/master_1440.m3u8
