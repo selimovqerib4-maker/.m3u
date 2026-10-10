@@ -1,0 +1,57 @@
+#EXTM3U
+#EXTINF:-1 group-title="TRT",TRT 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://tv-trt1.medya.trt.com.tr/master_1440.m3u8
+
+#EXTINF:-1 group-title="TRT",TRT 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://tv-trt2.medya.trt.com.tr/master_1440.m3u8
+
+#EXTINF:-1 group-title="TRT",TRT Haber
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://tv-trthaber.medya.trt.com.tr/master_1440.m3u8
+
+#EXTINF:-1 group-title="TRT",TRT Spor
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://tv-trtspor1.medya.trt.com.tr/master_1440.m3u8
+
+#EXTINF:-1 group-title="TRT",TRT Spor Yıldız
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://tv-trtspor2.medya.trt.com.tr/master_1440.m3u8
+
+#EXTINF:-1 group-title="TRT",TRT Türk
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://tv-trtturk.medya.trt.com.tr/master_1440.m3u8
+
+#EXTINF:-1 group-title="TRT",TRT Avaz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://tv-trtavaz.medya.trt.com.tr/master_1440.m3u8
+
+#EXTINF:-1 group-title="TRT",TRT Belgesel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://tv-trtbelgesel.medya.trt.com.tr/master_1440.m3u8
+
+#EXTINF:-1 group-title="TRT",TRT Müzik
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://tv-trtmuzik.medya.trt.com.tr/master_1440.m3u8
+
+#EXTINF:-1 group-title="TRT",TRT Kurdî
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://tv-trtkurdi.medya.trt.com.tr/master_1440.m3u8
+
+#EXTINF:-1 group-title="TRT",TRT Arabi
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://tv-trtarabi.medya.trt.com.tr/master_1440.m3u8
+
+#EXTINF:-1 group-title="TRT",TRT World
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://tv-trtworld.medya.trt.com.tr/master_1440.m3u8
+
+#EXTINF:-1 group-title="TRT",TRT Çocuk
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://tv-trtcocuk.medya.trt.com.tr/master_1440.m3u8
+
+#EXTINF:-1 group-title="TRT",TRT Diyanet Çocuk
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://tv-trtdiyanetcocuk.medya.trt.com.tr/master_1440.m3u8
+
