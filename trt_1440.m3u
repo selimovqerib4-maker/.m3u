@@ -3,10 +3,6 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://tv-trt1.medya.trt.com.tr/master_1440.m3u8
 
-#EXTINF:-1 group-title="TRT",TRT Haber
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-https://tv-trthaber.medya.trt.com.tr/master_1440.m3u8
-
 #EXTINF:-1 group-title="TRT",TRT Spor
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://tv-trtspor1.medya.trt.com.tr/master_1440.m3u8
