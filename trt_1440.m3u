@@ -3,10 +3,6 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://tv-trt1.medya.trt.com.tr/master_1440.m3u8
 
-#EXTINF:-1 group-title="TRT",TRT Spor Yıldız
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-https://tv-trtspor2.medya.trt.com.tr/master_1440.m3u8
-
 #EXTINF:-1 group-title="TRT",TRT Türk
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://tv-trtturk.medya.trt.com.tr/master_1440.m3u8
