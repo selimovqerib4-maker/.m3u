@@ -23,7 +23,3 @@ https://tv-trtmuzik.medya.trt.com.tr/master_1440.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://tv-trtcocuk.medya.trt.com.tr/master_1440.m3u8
 
-#EXTINF:-1 group-title="TRT",TRT Diyanet Çocuk
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-https://tv-trtdiyanetcocuk.medya.trt.com.tr/master_1440.m3u8
-
