@@ -1,0 +1,204 @@
+XTINF:-1 tvg-name="AZ: ATV AZAD FHD" group-title="ПОМОЙКА",AZ: ATV AZAD FHD
+http://45.159.94.49:8080/play/live.php?mac=00:1A:79:0F:46:C6&stream=632490&extension=ts
+#EXTINF:-1 tvg-name="PRO ARENA" group-title="ПОМОЙКА",PRO ARENA
+http://45.159.94.49:8080/play/live.php?mac=00:1A:79:0F:46:C6&stream=1105335&extension=ts
+#EXTINF:-1 tvg-name="Bridge Classic" group-title="ПОМОЙКА",Bridge Classic
+http://45.159.94.49:8080/play/live.php?mac=00:1A:79:0F:46:C6&stream=869170&extension=ts
+#EXTINF:-1 tvg-name="EXTREME SPORTS CHANNEL" group-title="ПОМОЙКА",EXTREME SPORTS CHANNEL
+http://45.159.94.49:8080/play/live.php?mac=00:1A:79:0F:46:C6&stream=1105336&extension=ts
+#EXTINF:-1 tvg-name="Bridge Rock" group-title="ПОМОЙКА",Bridge Rock
+http://45.159.94.49:8080/play/live.php?mac=00:1A:79:0F:46:C6&stream=869169&extension=ts
+#EXTINF:-1 tvg-name="4ever Music HD" group-title="ПОМОЙКА",4ever Music HD
+http://45.159.94.49:8080/play/live.php?mac=00:1A:79:0F:46:C6&stream=869167&extension=ts
+#EXTINF:-1 tvg-name="AZ: XEZER HD" group-title="ПОМОЙКА",AZ: XEZER HD
+http://45.159.94.49:8080/play/live.php?mac=00:1A:79:0F:46:C6&stream=632487&extension=ts
+#EXTINF:-1 tvg-name="AZ: ARB TV FHD" group-title="ПОМОЙКА",AZ: ARB TV FHD
+http://45.159.94.49:8080/play/live.php?mac=00:1A:79:0F:46:C6&stream=632484&extension=ts
+#EXTINF:-1 tvg-name="Russian MusicBox HD" group-title="ПОМОЙКА",Russian MusicBox HD
+http://45.159.94.49:8080/play/live.php?mac=00:1A:79:0F:46:C6&stream=869180&extension=ts
+#EXTINF:-1 tvg-name="#ё Самара" group-title="ПОМОЙКА",#ё Самара
+http://45.159.94.49:8080/play/live.php?mac=00:1A:79:0F:46:C6&stream=869177&extension=ts
+#EXTINF:-1 tvg-name="AZ: XEZER FHD" group-title="ПОМОЙКА",AZ: XEZER FHD
+http://45.159.94.49:8080/play/live.php?mac=00:1A:79:0F:46:C6&stream=632488&extension=ts
+#EXTINF:-1 tvg-name="AZ: SPACE HD" group-title="ПОМОЙКА",AZ: SPACE HD
+http://45.159.94.49:8080/play/live.php?mac=00:1A:79:0F:46:C6&stream=632485&extension=ts
+#EXTINF:-1 tvg-name="AZ: SPACE FHD" group-title="ПОМОЙКА",AZ: SPACE FHD
+http://45.159.94.49:8080/play/live.php?mac=00:1A:79:0F:46:C6&stream=632486&extension=ts
+#EXTINF:-1 tvg-name="PRIMA SPORT 2" group-title="ПОМОЙКА",PRIMA SPORT 2
+http://45.159.94.49:8080/play/live.php?mac=00:1A:79:0F:46:C6&stream=1105341&extension=ts
+#EXTINF:-1 tvg-name="iConcerts HD" group-title="ПОМОЙКА",iConcerts HD
+http://45.159.94.49:8080/play/live.php?mac=00:1A:79:0F:46:C6&stream=869163&extension=ts
+#EXTINF:-1 tvg-name="AZ: DUNYA TV HD" group-title="ПОМОЙКА",AZ: DUNYA TV HD
+http://45.159.94.49:8080/play/live.php?mac=00:1A:79:0F:46:C6&stream=632481&extension=ts
+#EXTINF:-1 tvg-name="AZ: KANAL S TV FHD" group-title="ПОМОЙКА",AZ: KANAL S TV FHD
+http://45.159.94.49:8080/play/live.php?mac=00:1A:79:0F:46:C6&stream=632476&extension=ts
+#EXTINF:-1 tvg-name="AZ: KANAL S TV HD" group-title="ПОМОЙКА",AZ: KANAL S TV HD
+http://45.159.94.49:8080/play/live.php?mac=00:1A:79:0F:46:C6&stream=632475&extension=ts
+#EXTINF:-1 tvg-name="AZ: MEDENIYYET TV FHD" group-title="ПОМОЙКА",AZ: MEDENIYYET TV FHD
+http://45.159.94.49:8080/play/live.php?mac=00:1A:79:0F:46:C6&stream=632478&extension=ts
+#EXTINF:-1 tvg-name="AZ: MEDENIYYET TV HD" group-title="ПОМОЙКА",AZ: MEDENIYYET TV HD
+http://45.159.94.49:8080/play/live.php?mac=00:1A:79:0F:46:C6&stream=632477&extension=ts
+#EXTINF:-1 tvg-name="AZ: ICTIMAI TV HD" group-title="ПОМОЙКА",AZ: ICTIMAI TV HD
+http://45.159.94.49:8080/play/live.php?mac=00:1A:79:0F:46:C6&stream=632479&extension=ts
+#EXTINF:-1 tvg-name="AZ: CBC TV FHD" group-title="ПОМОЙКА",AZ: CBC TV FHD
+http://45.159.94.49:8080/play/live.php?mac=00:1A:79:0F:46:C6&stream=632470&extension=ts
+#EXTINF:-1 tvg-name="PRIMA SPORT 3" group-title="ПОМОЙКА",PRIMA SPORT 3
+http://45.159.94.49:8080/play/live.php?mac=00:1A:79:0F:46:C6&stream=1105340&extension=ts
+#EXTINF:-1 tvg-name="AZ: BAKU TV HD" group-title="ПОМОЙКА",AZ: BAKU TV HD
+http://45.159.94.49:8080/play/live.php?mac=00:1A:79:0F:46:C6&stream=632457&extension=ts
+#EXTINF:-1 tvg-name="AZ: REAL TV HD" group-title="ПОМОЙКА",AZ: REAL TV HD
+http://45.159.94.49:8080/play/live.php?mac=00:1A:79:0F:46:C6&stream=632471&extension=ts
+#EXTINF:-1 tvg-name="Шансон ТВ" group-title="ПОМОЙКА",Шансон ТВ
+http://45.159.94.49:8080/play/live.php?mac=00:1A:79:0F:46:C6&stream=869152&extension=ts
+#EXTINF:-1 tvg-name="Bridge Hits" group-title="ПОМОЙКА",Bridge Hits
+http://45.159.94.49:8080/play/live.php?mac=00:1A:79:0F:46:C6&stream=869174&extension=ts
+#EXTINF:-1 tvg-name="AZ: CBC SPOR TV FHD" group-title="ПОМОЙКА",AZ: CBC SPOR TV FHD
+http://45.159.94.49:8080/play/live.php?mac=00:1A:79:0F:46:C6&stream=632460&extension=ts
+#EXTINF:-1 tvg-name="AZ: CBC TV HD" group-title="ПОМОЙКА",AZ: CBC TV HD
+http://45.159.94.49:8080/play/live.php?mac=00:1A:79:0F:46:C6&stream=632469&extension=ts
+#EXTINF:-1 tvg-name="AZ: ATV AZAD HD" group-title="ПОМОЙКА",AZ: ATV AZAD HD
+http://45.159.94.49:8080/play/live.php?mac=00:1A:79:0F:46:C6&stream=632489&extension=ts
+#EXTINF:-1 tvg-name="AZ: AKTV TV HD" group-title="ПОМОЙКА",AZ: AKTV TV HD
+http://45.159.94.49:8080/play/live.php?mac=00:1A:79:0F:46:C6&stream=632424&extension=ts
+#EXTINF:-1 tvg-name="AZ: 9 VOLNE TV HD" group-title="ПОМОЙКА",AZ: 9 VOLNE TV HD
+http://45.159.94.49:8080/play/live.php?mac=00:1A:79:0F:46:C6&stream=632397&extension=ts
+#EXTINF:-1 tvg-name="AZ: BAKU TV FHD" group-title="ПОМОЙКА",AZ: BAKU TV FHD
+http://45.159.94.49:8080/play/live.php?mac=00:1A:79:0F:46:C6&stream=632458&extension=ts
+#EXTINF:-1 tvg-name="AZ: AQRO TV HD" group-title="ПОМОЙКА",AZ: AQRO TV HD
+http://45.159.94.49:8080/play/live.php?mac=00:1A:79:0F:46:C6&stream=632398&extension=ts
+#EXTINF:-1 tvg-name="AZ: CBC SPOR TV HD" group-title="ПОМОЙКА",AZ: CBC SPOR TV HD
+http://45.159.94.49:8080/play/live.php?mac=00:1A:79:0F:46:C6&stream=632459&extension=ts
+#EXTINF:-1 tvg-name="AZ: AZERI DINI 1 TV" group-title="ПОМОЙКА",AZ: AZERI DINI 1 TV
+http://45.159.94.49:8080/play/live.php?mac=00:1A:79:0F:46:C6&stream=632386&extension=ts
+#EXTINF:-1 tvg-name="AZ: AZERI DINI 2 TV" group-title="ПОМОЙКА",AZ: AZERI DINI 2 TV
+http://45.159.94.49:8080/play/live.php?mac=00:1A:79:0F:46:C6&stream=632385&extension=ts
+#EXTINF:-1 tvg-name="AZ: ALVİN TV" group-title="ПОМОЙКА",AZ: ALVİN TV
+http://45.159.94.49:8080/play/live.php?mac=00:1A:79:0F:46:C6&stream=632410&extension=ts
+#EXTINF:-1 tvg-name="AZ: AZAD SOZ AZ TV HD" group-title="ПОМОЙКА",AZ: AZAD SOZ AZ TV HD
+http://45.159.94.49:8080/play/live.php?mac=00:1A:79:0F:46:C6&stream=632454&extension=ts
+#EXTINF:-1 tvg-name="M1 HD" group-title="ПОМОЙКА",M1 HD
+http://45.159.94.49:8080/play/live.php?mac=00:1A:79:0F:46:C6&stream=869155&extension=ts
+#EXTINF:-1 tvg-name="МузСоюз" group-title="ПОМОЙКА",МузСоюз
+http://45.159.94.49:8080/play/live.php?mac=00:1A:79:0F:46:C6&stream=869151&extension=ts
+#EXTINF:-1 tvg-name="Bridge TV Русский хит" group-title="ПОМОЙКА",Bridge TV Русский хит
+http://45.159.94.49:8080/play/live.php?mac=00:1A:79:0F:46:C6&stream=869172&extension=ts
+#EXTINF:-1 tvg-name="Kronehit HD" group-title="ПОМОЙКА",Kronehit HD
+http://45.159.94.49:8080/play/live.php?mac=00:1A:79:0F:46:C6&stream=869161&extension=ts
+#EXTINF:-1 tvg-name="AZ: CHDTV MOVIES TV HD" group-title="ПОМОЙКА",AZ: CHDTV MOVIES TV HD
+http://45.159.94.49:8080/play/live.php?mac=00:1A:79:0F:46:C6&stream=632440&extension=ts
+#EXTINF:-1 tvg-name="AZ: ARB GUNES TV FHD" group-title="ПОМОЙКА",AZ: ARB GUNES TV FHD
+http://45.159.94.49:8080/play/live.php?mac=00:1A:79:0F:46:C6&stream=632468&extension=ts
+#EXTINF:-1 tvg-name="AZ: AZERI DINI 4 TV" group-title="ПОМОЙКА",AZ: AZERI DINI 4 TV
+http://45.159.94.49:8080/play/live.php?mac=00:1A:79:0F:46:C6&stream=632383&extension=ts
+#EXTINF:-1 tvg-name="AZ: APA TV HD" group-title="ПОМОЙКА",AZ: APA TV HD
+http://45.159.94.49:8080/play/live.php?mac=00:1A:79:0F:46:C6&stream=632406&extension=ts
+#EXTINF:-1 tvg-name="AZ: AZSTAR TV HD" group-title="ПОМОЙКА",AZ: AZSTAR TV HD
+http://45.159.94.49:8080/play/live.php?mac=00:1A:79:0F:46:C6&stream=632408&extension=ts
+#EXTINF:-1 tvg-name="AZ: CTV MEYXANA TV HD" group-title="ПОМОЙКА",AZ: CTV MEYXANA TV HD
+http://45.159.94.49:8080/play/live.php?mac=00:1A:79:0F:46:C6&stream=632421&extension=ts
+#EXTINF:-1 tvg-name="AZ: CTV VIZYON 2 TV HD" group-title="ПОМОЙКА",AZ: CTV VIZYON 2 TV HD
+http://45.159.94.49:8080/play/live.php?mac=00:1A:79:0F:46:C6&stream=632445&extension=ts
+#EXTINF:-1 tvg-name="AZ: DIZI TV HD" group-title="ПОМОЙКА",AZ: DIZI TV HD
+http://45.159.94.49:8080/play/live.php?mac=00:1A:79:0F:46:C6&stream=632434&extension=ts
+#EXTINF:-1 tvg-name="AZ: ELTV TV HD" group-title="ПОМОЙКА",AZ: ELTV TV HD
+http://45.159.94.49:8080/play/live.php?mac=00:1A:79:0F:46:C6&stream=632409&extension=ts
+#EXTINF:-1 tvg-name="AZ: GEM AZ TV HD" group-title="ПОМОЙКА",AZ: GEM AZ TV HD
+http://45.159.94.49:8080/play/live.php?mac=00:1A:79:0F:46:C6&stream=632417&extension=ts
+#EXTINF:-1 tvg-name="AZ: GUNAZ TV HD" group-title="ПОМОЙКА",AZ: GUNAZ TV HD
+http://45.159.94.49:8080/play/live.php?mac=00:1A:79:0F:46:C6&stream=632414&extension=ts
+#EXTINF:-1 tvg-name="AZ: HADI TV HD" group-title="ПОМОЙКА",AZ: HADI TV HD
+http://45.159.94.49:8080/play/live.php?mac=00:1A:79:0F:46:C6&stream=632404&extension=ts
+#EXTINF:-1 tvg-name="AZ: CTV VİZYON 1 TV HD" group-title="ПОМОЙКА",AZ: CTV VİZYON 1 TV HD
+http://45.159.94.49:8080/play/live.php?mac=00:1A:79:0F:46:C6&stream=632446&extension=ts
+#EXTINF:-1 tvg-name="AZ: AZER_SPORT 1 TV" group-title="ПОМОЙКА",AZ: AZER_SPORT 1 TV
+http://45.159.94.49:8080/play/live.php?mac=00:1A:79:0F:46:C6&stream=632389&extension=ts
+#EXTINF:-1 tvg-name="Song TV Russia HD" group-title="ПОМОЙКА",Song TV Russia HD
+http://45.159.94.49:8080/play/live.php?mac=00:1A:79:0F:46:C6&stream=869150&extension=ts
+#EXTINF:-1 tvg-name="AZ: HTV SINEMA TV HD" group-title="ПОМОЙКА",AZ: HTV SINEMA TV HD
+http://45.159.94.49:8080/play/live.php?mac=00:1A:79:0F:46:C6&stream=632451&extension=ts
+#EXTINF:-1 tvg-name="AZ: IDEA TV HD" group-title="ПОМОЙКА",AZ: IDEA TV HD
+http://45.159.94.49:8080/play/live.php?mac=00:1A:79:0F:46:C6&stream=632433&extension=ts
+#EXTINF:-1 tvg-name="AZ: KANAL12 TV" group-title="ПОМОЙКА",AZ: KANAL12 TV
+http://45.159.94.49:8080/play/live.php?mac=00:1A:79:0F:46:C6&stream=632393&extension=ts
+#EXTINF:-1 tvg-name="AZ: AKTV SPORT TV HD" group-title="ПОМОЙКА",AZ: AKTV SPORT TV HD
+http://45.159.94.49:8080/play/live.php?mac=00:1A:79:0F:46:C6&stream=632390&extension=ts
+#EXTINF:-1 tvg-name="AZ: ARI MUGAM TV HD" group-title="ПОМОЙКА",AZ: ARI MUGAM TV HD
+http://45.159.94.49:8080/play/live.php?mac=00:1A:79:0F:46:C6&stream=632419&extension=ts
+#EXTINF:-1 tvg-name="AZ: KEPEZ TV HD" group-title="ПОМОЙКА",AZ: KEPEZ TV HD
+http://45.159.94.49:8080/play/live.php?mac=00:1A:79:0F:46:C6&stream=632413&extension=ts
+#EXTINF:-1 tvg-name="AZ: MEGA TV HD" group-title="ПОМОЙКА",AZ: MEGA TV HD
+http://45.159.94.49:8080/play/live.php?mac=00:1A:79:0F:46:C6&stream=632450&extension=ts
+#EXTINF:-1 tvg-name="AZ: MEGA YESILCAM TV HD" group-title="ПОМОЙКА",AZ: MEGA YESILCAM TV HD
+http://45.159.94.49:8080/play/live.php?mac=00:1A:79:0F:46:C6&stream=632436&extension=ts
+#EXTINF:-1 tvg-name="AZ: AZERI DINI 3 TV" group-title="ПОМОЙКА",AZ: AZERI DINI 3 TV
+http://45.159.94.49:8080/play/live.php?mac=00:1A:79:0F:46:C6&stream=632384&extension=ts
+#EXTINF:-1 tvg-name="AZ: AZTV HD" group-title="ПОМОЙКА",AZ: AZTV HD
+http://45.159.94.49:8080/play/live.php?mac=00:1A:79:0F:46:C6&stream=632491&extension=ts
+#EXTINF:-1 tvg-name="AZ: CTV USAQ TV HD" group-title="ПОМОЙКА",AZ: CTV USAQ TV HD
+http://45.159.94.49:8080/play/live.php?mac=00:1A:79:0F:46:C6&stream=632423&extension=ts
+#EXTINF:-1 tvg-name="AZ: CHDTV HD" group-title="ПОМОЙКА",AZ: CHDTV HD
+http://45.159.94.49:8080/play/live.php?mac=00:1A:79:0F:46:C6&stream=632439&extension=ts
+#EXTINF:-1 tvg-name="AZ: FTV TV HD" group-title="ПОМОЙКА",AZ: FTV TV HD
+http://45.159.94.49:8080/play/live.php?mac=00:1A:79:0F:46:C6&stream=632453&extension=ts
+#EXTINF:-1 tvg-name="AZ: SEHER TV HD" group-title="ПОМОЙКА",AZ: SEHER TV HD
+http://45.159.94.49:8080/play/live.php?mac=00:1A:79:0F:46:C6&stream=632399&extension=ts
+#EXTINF:-1 tvg-name="AZ: KATV 1 TV HD" group-title="ПОМОЙКА",AZ: KATV 1 TV HD
+http://45.159.94.49:8080/play/live.php?mac=00:1A:79:0F:46:C6&stream=632405&extension=ts
+#EXTINF:-1 tvg-name="AZ: KONUL TV HD" group-title="ПОМОЙКА",AZ: KONUL TV HD
+http://45.159.94.49:8080/play/live.php?mac=00:1A:79:0F:46:C6&stream=632456&extension=ts
+#EXTINF:-1 tvg-name="AZ: SETANTA SPORT 2 TV" group-title="ПОМОЙКА",AZ: SETANTA SPORT 2 TV
+http://45.159.94.49:8080/play/live.php?mac=00:1A:79:0F:46:C6&stream=632387&extension=ts
+#EXTINF:-1 tvg-name="AZ: ARI MUZIK HD" group-title="ПОМОЙКА",AZ: ARI MUZIK HD
+http://45.159.94.49:8080/play/live.php?mac=00:1A:79:0F:46:C6&stream=632420&extension=ts
+#EXTINF:-1 tvg-name="AZ: KANAL 35 TV HD" group-title="ПОМОЙКА",AZ: KANAL 35 TV HD
+http://45.159.94.49:8080/play/live.php?mac=00:1A:79:0F:46:C6&stream=632396&extension=ts
+#EXTINF:-1 tvg-name="AZ: LIVE TV HD" group-title="ПОМОЙКА",AZ: LIVE TV HD
+http://45.159.94.49:8080/play/live.php?mac=00:1A:79:0F:46:C6&stream=632411&extension=ts
+#EXTINF:-1 tvg-name="AZ: MEGA MUZIK TV HD" group-title="ПОМОЙКА",AZ: MEGA MUZIK TV HD
+http://45.159.94.49:8080/play/live.php?mac=00:1A:79:0F:46:C6&stream=632428&extension=ts
+#EXTINF:-1 tvg-name="AZ: RETRO AZ TV HD" group-title="ПОМОЙКА",AZ: RETRO AZ TV HD
+http://45.159.94.49:8080/play/live.php?mac=00:1A:79:0F:46:C6&stream=632443&extension=ts
+#EXTINF:-1 tvg-name="AZ: NAXCIVAN TV HD" group-title="ПОМОЙКА",AZ: NAXCIVAN TV HD
+http://45.159.94.49:8080/play/live.php?mac=00:1A:79:0F:46:C6&stream=632407&extension=ts
+#EXTINF:-1 tvg-name="AZ: NEW TV HD" group-title="ПОМОЙКА",AZ: NEW TV HD
+http://45.159.94.49:8080/play/live.php?mac=00:1A:79:0F:46:C6&stream=632418&extension=ts
+#EXTINF:-1 tvg-name="AZ: VASTOK TV HD" group-title="ПОМОЙКА",AZ: VASTOK TV HD
+http://45.159.94.49:8080/play/live.php?mac=00:1A:79:0F:46:C6&stream=632401&extension=ts
+#EXTINF:-1 tvg-name="AZ: VILAYET TV" group-title="ПОМОЙКА",AZ: VILAYET TV
+http://45.159.94.49:8080/play/live.php?mac=00:1A:79:0F:46:C6&stream=632394&extension=ts
+#EXTINF:-1 tvg-name="AZ: ARB TV HD" group-title="ПОМОЙКА",AZ: ARB TV HD
+http://45.159.94.49:8080/play/live.php?mac=00:1A:79:0F:46:C6&stream=632483&extension=ts
+#EXTINF:-1 tvg-name="TLC HD" group-title="ПОМОЙКА",TLC HD
+http://45.159.94.49:8080/play/live.php?mac=00:1A:79:0F:46:C6&stream=869189&extension=ts
+#EXTINF:-1 tvg-name="AZ: ARB GUNES TV HD" group-title="ПОМОЙКА",AZ: ARB GUNES TV HD
+http://45.159.94.49:8080/play/live.php?mac=00:1A:79:0F:46:C6&stream=632467&extension=ts
+#EXTINF:-1 tvg-name="AZ: SEHIYYE TV HD" group-title="ПОМОЙКА",AZ: SEHIYYE TV HD
+http://45.159.94.49:8080/play/live.php?mac=00:1A:79:0F:46:C6&stream=632400&extension=ts
+#EXTINF:-1 tvg-name="AZ: SETANTA SPORT 1 TV" group-title="ПОМОЙКА",AZ: SETANTA SPORT 1 TV
+http://45.159.94.49:8080/play/live.php?mac=00:1A:79:0F:46:C6&stream=632388&extension=ts
+#EXTINF:-1 tvg-name="AZ: SHOWPLUS TV" group-title="ПОМОЙКА",AZ: SHOWPLUS TV
+http://45.159.94.49:8080/play/live.php?mac=00:1A:79:0F:46:C6&stream=632455&extension=ts
+#EXTINF:-1 tvg-name="AZ: HZ.YUSIF TV HD" group-title="ПОМОЙКА",AZ: HZ.YUSIF TV HD
+http://45.159.94.49:8080/play/live.php?mac=00:1A:79:0F:46:C6&stream=632431&extension=ts
+#EXTINF:-1 tvg-name="AZ: VIP TV" group-title="ПОМОЙКА",AZ: VIP TV
+http://45.159.94.49:8080/play/live.php?mac=00:1A:79:0F:46:C6&stream=632395&extension=ts
+#EXTINF:-1 tvg-name="NRJ Hits (BE)" group-title="ПОМОЙКА",NRJ Hits (BE)
+http://45.159.94.49:8080/play/live.php?mac=00:1A:79:0F:46:C6&stream=869146&extension=ts
+#EXTINF:-1 tvg-name="AZ: ICTIMAI TV FHD" group-title="ПОМОЙКА",AZ: ICTIMAI TV FHD
+http://45.159.94.49:8080/play/live.php?mac=00:1A:79:0F:46:C6&stream=632480&extension=ts
+#EXTINF:-1 tvg-name="AZ: SİRVAN TV HD" group-title="ПОМОЙКА",AZ: SİRVAN TV HD
+http://45.159.94.49:8080/play/live.php?mac=00:1A:79:0F:46:C6&stream=632449&extension=ts
+#EXTINF:-1 tvg-name="AZ: QAFQAZ TV HD" group-title="ПОМОЙКА",AZ: QAFQAZ TV HD
+http://45.159.94.49:8080/play/live.php?mac=00:1A:79:0F:46:C6&stream=632415&extension=ts
+#EXTINF:-1 tvg-name="AM: Luys TV" group-title="ПОМОЙКА",AM: Luys TV
+http://45.159.94.49:8080/play/live.php?mac=00:1A:79:0F:46:C6&stream=334046&extension=ts
+#EXTINF:-1 tvg-name="Trace Urban HD" group-title="ПОМОЙКА",Trace Urban HD
+http://45.159.94.49:8080/play/live.php?mac=00:1A:79:0F:46:C6&stream=869142&extension=ts
+#EXTINF:-1 tvg-name="AIVA" group-title="ПОМОЙКА",AIVA
+http://45.159.94.49:8080/play/live.php?mac=00:1A:79:0F:46:C6&stream=869144&extension=ts
+#EXTINF:-1 tvg-name="AZ: RIHAT TV HD" group-title="ПОМОЙКА",AZ: RIHAT TV HD
+http://45.159.94.49:8080/play/live.php?mac=00:1A:79:0F:46:C6&stream=632429&extension=ts
+
+#EXTINF:-1 tvg-name="AZ: UMID TV HD" group-title="ПОМОЙКА",AZ: UMID TV HD
+http://45.159.94.49:8080/play/live.php?mac=00:1A:79:0F:46:C6&stream=632427&extension=ts
+0/play/1030/index.m3u8
