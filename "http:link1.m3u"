@@ -1,7 +1,3 @@
-#EXTM3U
-#EXTINF:-1,Ulduz TV - 7/24
-https://youtu.be/zJY8z8v0xbo
-#EXTINF:-1,Ulduz TV - 7/24
-https://youtu.be/zJY8z8v0xbo
-#EXTINF:-1,Ulduz TV - 7/24
-https://youtu.be/zJY8z8v0xbo
+#EXTINF:-1 group-title="Azərbaycan",Azərbaycan Film 1
+#EXTGRP:Azərbaycan
+https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4
