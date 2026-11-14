@@ -4009,3 +4009,245 @@ http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D6&stream=197161&exte
 
 http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D6&stream=197160&extension=ts&play_token=dg0fqY7VUH
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/Ha
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="★☆★ ULUSAL ★☆★" group-title="ᴛʀ • ULUSAL",★☆★ ULUSAL ★☆★
+http://clubxc.com:8080/play/live.php?mac=00:2A:01:90:55:C7&stream=129347&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TRT 4K UHD 2160p" group-title="ᴛʀ • ULUSAL",TRT 4K UHD 2160p
+http://clubxc.com:8080/play/live.php?mac=00:2A:01:90:55:C7&stream=94064&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TRT 4K HD+" group-title="ᴛʀ • ULUSAL",TRT 4K HD+
+http://clubxc.com:8080/play/live.php?mac=00:2A:01:90:55:C7&stream=163662&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="↺TRT 1 HD+" group-title="ᴛʀ • ULUSAL",↺TRT 1 HD+
+http://clubxc.com:8080/play/live.php?mac=00:2A:01:90:55:C7&stream=94061&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TRT 1 HD" group-title="ᴛʀ • ULUSAL",TRT 1 HD
+http://clubxc.com:8080/play/live.php?mac=00:2A:01:90:55:C7&stream=94062&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TRT 2 HD+" group-title="ᴛʀ • ULUSAL",TRT 2 HD+
+http://clubxc.com:8080/play/live.php?mac=00:2A:01:90:55:C7&stream=128885&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TRT 2 HD" group-title="ᴛʀ • ULUSAL",TRT 2 HD
+http://clubxc.com:8080/play/live.php?mac=00:2A:01:90:55:C7&stream=94063&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="↺SHOW TV HD+" group-title="ᴛʀ • ULUSAL",↺SHOW TV HD+
+http://clubxc.com:8080/play/live.php?mac=00:2A:01:90:55:C7&stream=94065&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="SHOW TV HD" group-title="ᴛʀ • ULUSAL",SHOW TV HD
+http://clubxc.com:8080/play/live.php?mac=00:2A:01:90:55:C7&stream=94066&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="↺ATV HD+" group-title="ᴛʀ • ULUSAL",↺ATV HD+
+http://clubxc.com:8080/play/live.php?mac=00:2A:01:90:55:C7&stream=94067&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="ATV HD" group-title="ᴛʀ • ULUSAL",ATV HD
+http://clubxc.com:8080/play/live.php?mac=00:2A:01:90:55:C7&stream=94068&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="↺KANAL D HD+" group-title="ᴛʀ • ULUSAL",↺KANAL D HD+
+http://clubxc.com:8080/play/live.php?mac=00:2A:01:90:55:C7&stream=94069&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="KANAL D HD" group-title="ᴛʀ • ULUSAL",KANAL D HD
+http://clubxc.com:8080/play/live.php?mac=00:2A:01:90:55:C7&stream=94070&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="↺STAR TV HD+" group-title="ᴛʀ • ULUSAL",↺STAR TV HD+
+http://clubxc.com:8080/play/live.php?mac=00:2A:01:90:55:C7&stream=94071&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="STAR TV HD" group-title="ᴛʀ • ULUSAL",STAR TV HD
+http://clubxc.com:8080/play/live.php?mac=00:2A:01:90:55:C7&stream=94072&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="↺NOW TV HD+" group-title="ᴛʀ • ULUSAL",↺NOW TV HD+
+http://clubxc.com:8080/play/live.php?mac=00:2A:01:90:55:C7&stream=94075&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="NOW TV HD" group-title="ᴛʀ • ULUSAL",NOW TV HD
+http://clubxc.com:8080/play/live.php?mac=00:2A:01:90:55:C7&stream=94076&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="↺TV 8 HD+" group-title="ᴛʀ • ULUSAL",↺TV 8 HD+
+http://clubxc.com:8080/play/live.php?mac=00:2A:01:90:55:C7&stream=94073&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TV 8 HD" group-title="ᴛʀ • ULUSAL",TV 8 HD
+http://clubxc.com:8080/play/live.php?mac=00:2A:01:90:55:C7&stream=94074&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TV 8.5 HD+" group-title="ᴛʀ • ULUSAL",TV 8.5 HD+
+http://clubxc.com:8080/play/live.php?mac=00:2A:01:90:55:C7&stream=146892&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TV 8.5 HD" group-title="ᴛʀ • ULUSAL",TV 8.5 HD
+http://clubxc.com:8080/play/live.php?mac=00:2A:01:90:55:C7&stream=94078&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="↺BEYAZ TV HD+" group-title="ᴛʀ • ULUSAL",↺BEYAZ TV HD+
+http://clubxc.com:8080/play/live.php?mac=00:2A:01:90:55:C7&stream=94079&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="BEYAZ TV HD" group-title="ᴛʀ • ULUSAL",BEYAZ TV HD
+http://clubxc.com:8080/play/live.php?mac=00:2A:01:90:55:C7&stream=94080&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="↺KANAL 7 HD+" group-title="ᴛʀ • ULUSAL",↺KANAL 7 HD+
+http://clubxc.com:8080/play/live.php?mac=00:2A:01:90:55:C7&stream=94081&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="KANAL 7 HD" group-title="ᴛʀ • ULUSAL",KANAL 7 HD
+http://clubxc.com:8080/play/live.php?mac=00:2A:01:90:55:C7&stream=94082&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="KANAL 7 AVRUPA HD+" group-title="ᴛʀ • ULUSAL",KANAL 7 AVRUPA HD+
+http://clubxc.com:8080/play/live.php?mac=00:2A:01:90:55:C7&stream=596350&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="KANAL 7 AVRUPA HD" group-title="ᴛʀ • ULUSAL",KANAL 7 AVRUPA HD
+http://clubxc.com:8080/play/live.php?mac=00:2A:01:90:55:C7&stream=94083&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TEVE 2 HD+" group-title="ᴛʀ • ULUSAL",TEVE 2 HD+
+http://clubxc.com:8080/play/live.php?mac=00:2A:01:90:55:C7&stream=94085&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TEVE 2 HD" group-title="ᴛʀ • ULUSAL",TEVE 2 HD
+http://clubxc.com:8080/play/live.php?mac=00:2A:01:90:55:C7&stream=94084&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="A2 HD+" group-title="ᴛʀ • ULUSAL",A2 HD+
+http://clubxc.com:8080/play/live.php?mac=00:2A:01:90:55:C7&stream=94087&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="A2 HD" group-title="ᴛʀ • ULUSAL",A2 HD
+http://clubxc.com:8080/play/live.php?mac=00:2A:01:90:55:C7&stream=94086&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="360 TV HD+" group-title="ᴛʀ • ULUSAL",360 TV HD+
+http://clubxc.com:8080/play/live.php?mac=00:2A:01:90:55:C7&stream=109090&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="360 TV HD" group-title="ᴛʀ • ULUSAL",360 TV HD
+http://clubxc.com:8080/play/live.php?mac=00:2A:01:90:55:C7&stream=111077&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TV 4 HD+" group-title="ᴛʀ • ULUSAL",TV 4 HD+
+http://clubxc.com:8080/play/live.php?mac=00:2A:01:90:55:C7&stream=94090&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TV 4 HD" group-title="ᴛʀ • ULUSAL",TV 4 HD
+http://clubxc.com:8080/play/live.php?mac=00:2A:01:90:55:C7&stream=94970&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="SHOW MAX HD+" group-title="ᴛʀ • ULUSAL",SHOW MAX HD+
+http://clubxc.com:8080/play/live.php?mac=00:2A:01:90:55:C7&stream=94093&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="SHOW MAX HD" group-title="ᴛʀ • ULUSAL",SHOW MAX HD
+http://clubxc.com:8080/play/live.php?mac=00:2A:01:90:55:C7&stream=190007&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="Bİ KANAL" group-title="ᴛʀ • ULUSAL",Bİ KANAL
+http://clubxc.com:8080/play/live.php?mac=00:2A:01:90:55:C7&stream=694812&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="SHOW TURK" group-title="ᴛʀ • ULUSAL",SHOW TURK
+http://clubxc.com:8080/play/live.php?mac=00:2A:01:90:55:C7&stream=94092&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="ATV AVRUPA" group-title="ᴛʀ • ULUSAL",ATV AVRUPA
+http://clubxc.com:8080/play/live.php?mac=00:2A:01:90:55:C7&stream=94094&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="EURO STAR" group-title="ᴛʀ • ULUSAL",EURO STAR
+http://clubxc.com:8080/play/live.php?mac=00:2A:01:90:55:C7&stream=94095&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="EURO D" group-title="ᴛʀ • ULUSAL",EURO D
+http://clubxc.com:8080/play/live.php?mac=00:2A:01:90:55:C7&stream=94096&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TABII TV" group-title="ᴛʀ • ULUSAL",TABII TV
+http://clubxc.com:8080/play/live.php?mac=00:2A:01:90:55:C7&stream=655171&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TRT TURK HD" group-title="ᴛʀ • ULUSAL",TRT TURK HD
+http://clubxc.com:8080/play/live.php?mac=00:2A:01:90:55:C7&stream=109346&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TRT AVAZ HD+" group-title="ᴛʀ • ULUSAL",TRT AVAZ HD+
+http://clubxc.com:8080/play/live.php?mac=00:2A:01:90:55:C7&stream=111081&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TRT AVAZ HD" group-title="ᴛʀ • ULUSAL",TRT AVAZ HD
+http://clubxc.com:8080/play/live.php?mac=00:2A:01:90:55:C7&stream=94098&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TV 8 INT" group-title="ᴛʀ • ULUSAL",TV 8 INT
+http://clubxc.com:8080/play/live.php?mac=00:2A:01:90:55:C7&stream=94097&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TRT EBA" group-title="ᴛʀ • ULUSAL",TRT EBA
+http://clubxc.com:8080/play/live.php?mac=00:2A:01:90:55:C7&stream=94105&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TRT 1 RAW" group-title="ᴛʀ • RAW",TRT 1 RAW
+http://clubxc.com:8080/play/live.php?mac=00:2A:01:90:55:C7&stream=126511&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TRT 1 HEVC" group-title="ᴛʀ • HEVC",TRT 1 HEVC
+http://clubxc.com:8080/play/live.php?mac=00:2A:01:90:55:C7&stream=94109&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="SHOW TV RAW" group-title="ᴛʀ • RAW",SHOW TV RAW
+http://clubxc.com:8080/play/live.php?mac=00:2A:01:90:55:C7&stream=126520&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="SHOW TV HEVC" group-title="ᴛʀ • HEVC",SHOW TV HEVC
+http://clubxc.com:8080/play/live.php?mac=00:2A:01:90:55:C7&stream=94111&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="ATV RAW" group-title="ᴛʀ • RAW",ATV RAW
+http://clubxc.com:8080/play/live.php?mac=00:2A:01:90:55:C7&stream=126519&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="ATV HEVC" group-title="ᴛʀ • HEVC",ATV HEVC
+http://clubxc.com:8080/play/live.php?mac=00:2A:01:90:55:C7&stream=94110&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="KANAL D RAW" group-title="ᴛʀ • RAW",KANAL D RAW
+http://clubxc.com:8080/play/live.php?mac=00:2A:01:90:55:C7&stream=126518&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="KANAL D HEVC" group-title="ᴛʀ • HEVC",KANAL D HEVC
+http://clubxc.com:8080/play/live.php?mac=00:2A:01:90:55:C7&stream=94112&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="STAR TV RAW" group-title="ᴛʀ • RAW",STAR TV RAW
+http://clubxc.com:8080/play/live.php?mac=00:2A:01:90:55:C7&stream=126514&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="STAR TV HEVC" group-title="ᴛʀ • HEVC",STAR TV HEVC
+http://clubxc.com:8080/play/live.php?mac=00:2A:01:90:55:C7&stream=94113&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="NOW TV RAW" group-title="ᴛʀ • RAW",NOW TV RAW
+http://clubxc.com:8080/play/live.php?mac=00:2A:01:90:55:C7&stream=126521&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="NOW TV HEVC" group-title="ᴛʀ • HEVC",NOW TV HEVC
+http://clubxc.com:8080/play/live.php?mac=00:2A:01:90:55:C7&stream=94114&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TV 8 RAW" group-title="ᴛʀ • RAW",TV 8 RAW
+http://clubxc.com:8080/play/live.php?mac=00:2A:01:90:55:C7&stream=126517&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TV 8 HEVC" group-title="ᴛʀ • HEVC",TV 8 HEVC
+http://clubxc.com:8080/play/live.php?mac=00:2A:01:90:55:C7&stream=94115&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="BEYAZ TV RAW" group-title="ᴛʀ • RAW",BEYAZ TV RAW
+http://clubxc.com:8080/play/live.php?mac=00:2A:01:90:55:C7&stream=126526&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="BEYAZ TV HEVC" group-title="ᴛʀ • HEVC",BEYAZ TV HEVC
+http://clubxc.com:8080/play/live.php?mac=00:2A:01:90:55:C7&stream=94117&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TV 8.5 RAW" group-title="ᴛʀ • RAW",TV 8.5 RAW
+http://clubxc.com:8080/play/live.php?mac=00:2A:01:90:55:C7&stream=126516&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TV 8.5 HEVC" group-title="ᴛʀ • HEVC",TV 8.5 HEVC
+http://clubxc.com:8080/play/live.php?mac=00:2A:01:90:55:C7&stream=94116&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="KANAL 7 RAW" group-title="ᴛʀ • RAW",KANAL 7 RAW
+http://clubxc.com:8080/play/live.php?mac=00:2A:01:90:55:C7&stream=126522&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="KANAL 7 HEVC" group-title="ᴛʀ • HEVC",KANAL 7 HEVC
+http://clubxc.com:8080/play/live.php?mac=00:2A:01:90:55:C7&stream=94118&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TEVE 2 RAW" group-title="ᴛʀ • RAW",TEVE 2 RAW
+http://clubxc.com:8080/play/live.php?mac=00:2A:01:90:55:C7&stream=152245&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TEVE 2 HEVC" group-title="ᴛʀ • HEVC",TEVE 2 HEVC
+http://clubxc.com:8080/play/live.php?mac=00:2A:01:90:55:C7&stream=94119&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="A2 RAW" group-title="ᴛʀ • RAW",A2 RAW
+http://clubxc.com:8080/play/live.php?mac=00:2A:01:90:55:C7&stream=152199&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="A2 HEVC" group-title="ᴛʀ • HEVC",A2 HEVC
+http://clubxc.com:8080/play/live.php?mac=00:2A:01:90:55:C7&stream=94120&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="360 TV RAW" group-title="ᴛʀ • RAW",360 TV RAW
+http://clubxc.com:8080/play/live.php?mac=00:2A:01:90:55:C7&stream=152242&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="360 TV HEVC" group-title="ᴛʀ • HEVC",360 TV HEVC
+http://clubxc.com:8080/play/live.php?mac=00:2A:01:90:55:C7&stream=94122&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TRT TURK RAW" group-title="ᴛʀ • RAW",TRT TURK RAW
+http://clubxc.com:8080/play/live.php?mac=00:2A:01:90:55:C7&stream=152387&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TRT TURK HEVC" group-title="ᴛʀ • HEVC",TRT TURK HEVC
+http://clubxc.com:8080/play/live.php?mac=00:2A:01:90:55:C7&stream=94123&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TRT HABER HEVC" group-title="ᴛʀ • HEVC",TRT HABER HEVC
+http://clubxc.com:8080/play/live.php?mac=00:2A:01:90:55:C7&stream=94845&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="A HABER HEVC" group-title="ᴛʀ • HEVC",A HABER HEVC
+http://clubxc.com:8080/play/live.php?mac=00:2A:01:90:55:C7&stream=94852&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="CNN TURK HEVC" group-title="ᴛʀ • HEVC",CNN TURK HEVC
+http://clubxc.com:8080/play/live.php?mac=00:2A:01:90:55:C7&stream=94843&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="HALK TV HEVC" group-title="ᴛʀ • HEVC",HALK TV HEVC
+http://clubxc.com:8080/play/live.php?mac=00:2A:01:90:55:C7&stream=240622&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="HABER TURK HEVC" group-title="ᴛʀ • HEVC",HABER TURK HEVC
+http://clubxc.com:8080/play/live.php?mac=00:2A:01:90:55:C7&stream=94841&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="HABER GLOBAL HEVC" group-title="ᴛʀ • HEVC",HABER GLOBAL HEVC
+http://clubxc.com:8080/play/live.php?mac=00:2A:01:90:55:C7&stream=152243&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="NTV HEVC" group-title="ᴛʀ • HEVC",NTV HEVC
+http://clubxc.com:8080/play/live.php?mac=00:2A:01:90:55:C7&stream=94839&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TV 100 HEVC" group-title="ᴛʀ • HEVC",TV 100 HEVC
+http://clubxc.com:8080/play/live.php?mac=00:2A:01:90:55:C7&stream=94837&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="AKIT TV HEVC" group-title="ᴛʀ • HEVC",AKIT TV HEVC
+http://clubxc.com:8080/play/live.php?mac=00:2A:01:90:55:C7&stream=94855&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24 TV HEVC" group-title="ᴛʀ • HEVC",24 TV HEVC
+http://clubxc.com:8080/play/live.php?mac=00:2A:01:90:55:C7&stream=94858&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TELE 1 HEVC" group-title="ᴛʀ • HEVC",TELE 1 HEVC
+http://clubxc.com:8080/play/live.php?mac=00:2A:01:90:55:C7&stream=318960&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="KRT TV HEVC" group-title="ᴛʀ • HEVC",KRT TV HEVC
+http://clubxc.com:8080/play/live.php?mac=00:2A:01:90:55:C7&stream=318962&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="SOZCU TV HEVC" group-title="ᴛʀ • HEVC",SOZCU TV HEVC
+http://clubxc.com:8080/play/live.php?mac=00:2A:01:90:55:C7&stream=318963&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="ULKE TV HEVC" group-title="ᴛʀ • HEVC",ULKE TV HEVC
+http://clubxc.com:8080/play/live.php?mac=00:2A:01:90:55:C7&stream=318964&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="FLASH HABER HEVC" group-title="ᴛʀ • HEVC",FLASH HABER HEVC
+http://clubxc.com:8080/play/live.php?mac=00:2A:01:90:55:C7&stream=186170&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="ULUSAL KANAL HEVC" group-title="ᴛʀ • HEVC",ULUSAL KANAL HEVC
+http://clubxc.com:8080/play/live.php?mac=00:2A:01:90:55:C7&stream=94848&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="EKOTURK HEVC" group-title="ᴛʀ • HEVC",EKOTURK HEVC
+http://clubxc.com:8080/play/live.php?mac=00:2A:01:90:55:C7&stream=318969&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="BLOOMBERG HT HEVC" group-title="ᴛʀ • HEVC",BLOOMBERG HT HEVC
+http://clubxc.com:8080/play/live.php?mac=00:2A:01:90:55:C7&stream=94862&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="BENGU TURK HEVC" group-title="ᴛʀ • HEVC",BENGU TURK HEVC
+http://clubxc.com:8080/play/live.php?mac=00:2A:01:90:55:C7&stream=228279&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TGRT HABER HEVC" group-title="ᴛʀ • HEVC",TGRT HABER HEVC
+http://clubxc.com:8080/play/live.php?mac=00:2A:01:90:55:C7&stream=94865&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TRT BELGESEL RAW" group-title="ᴛʀ • RAW",TRT BELGESEL RAW
+http://clubxc.com:8080/play/live.php?mac=00:2A:01:90:55:C7&stream=152328&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TRT BELGESEL HEVC" group-title="ᴛʀ • HEVC",TRT BELGESEL HEVC
+http://clubxc.com:8080/play/live.php?mac=00:2A:01:90:55:C7&stream=94159&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO WILD RAW" group-title="ᴛʀ • RAW",NAT GEO WILD RAW
+http://clubxc.com:8080/play/live.php?mac=00:2A:01:90:55:C7&stream=152330&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO WILD HEVC" group-title="ᴛʀ • HEVC",NAT GEO WILD HEVC
+http://clubxc.com:8080/play/live.php?mac=00:2A:01:90:55:C7&stream=94153&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEOGRAPHIC RAW" group-title="ᴛʀ • RAW",NATIONAL GEOGRAPHIC RAW
+http://clubxc.com:8080/play/live.php?mac=00:2A:01:90:55:C7&stream=318966&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEOGRAPHIC HEVC" group-title="ᴛʀ • HEVC",NATIONAL GEOGRAPHIC HEVC
+http://clubxc.com:8080/play/live.php?mac=00:2A:01:90:55:C7&stream=94152&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY RAW" group-title="ᴛʀ • RAW",DISCOVERY RAW
+http://clubxc.com:8080/play/live.php?mac=00:2A:01:90:55:C7&stream=152331&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY HEVC" group-title="ᴛʀ • HEVC",DISCOVERY HEVC
+http://clubxc.com:8080/play/live.php?mac=00:2A:01:90:55:C7&stream=94154&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="VIASAT HISTORY RAW" group-title="ᴛʀ • RAW",VIASAT HISTORY RAW
+http://clubxc.com:8080/play/live.php?mac=00:2A:01:90:55:C7&stream=152333&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="VIASAT HISTORY HEVC" group-title="ᴛʀ • HEVC",VIASAT HISTORY HEVC
+http://clubxc.com:8080/play/live.php?mac=00:2A:01:90:55:C7&stream=94158&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="DMAX HEVC" group-title="ᴛʀ • HEVC",DMAX HEVC
+http://clubxc.com:8080/play/live.php?mac=00:2A:01:90:55:C7&stream=94157&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="★☆★ UHD-QHD ★☆★" group-title="ᴛʀ • UHD",★☆★ UHD-QHD ★☆★
+http://clubxc.com:8080/play/live.php?mac=00:2A:01:90:55:C7&stream=328689&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TRT 4K UHD 2160P" group-title="ᴛʀ • UHD",TRT 4K UHD 2160P
+http://clubxc.com:8080/play/live.php?mac=00:2A:01:90:55:C7&stream=691442&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TRT 1 4K" group-title="ᴛʀ • UHD",TRT 1 4K
+http://clubxc.com:8080/play/live.php?mac=00:2A:01:90:55:C7&stream=328688&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TRT 1 2K" group-title="ᴛʀ • UHD",TRT 1 2K
+http://clubxc.com:8080/play/live.php?mac=00:2A:01:90:55:C7&stream=691453&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="SHOW TV 4K" group-title="ᴛʀ • UHD",SHOW TV 4K
+http://clubxc.com:8080/play/live.php?mac=00:2A:01:90:55:C7&stream=328687&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="SHOW TV 2K" group-title="ᴛʀ • UHD",SHOW TV 2K
+http://clubxc.com:8080/play/live.php?mac=00:2A:01:90:55:C7&stream=691452&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="KANAL D 4K" group-title="ᴛʀ • UHD",KANAL D 4K
+http://clubxc.com:8080/play/live.php?mac=00:2A:01:90:55:C7&stream=328686&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="KANAL D 2K" group-title="ᴛʀ • UHD",KANAL D 2K
+http://clubxc.com:8080/play/live.php?mac=00:2A:01:90:55:C7&stream=691451&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="ATV 4K" group-title="ᴛʀ • UHD",ATV 4K
+http://clubxc.com:8080/play/live.php?mac=00:2A:01:90:55:C7&stream=328685&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="ATV 2K" group-title="ᴛʀ • UHD",ATV 2K
+http://clubxc.com:8080/play/live.php?mac=00:2A:01:90:55:C7&stream=691450&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="STAR TV 4K" group-title="ᴛʀ • UHD",STAR TV 4K
+http://clubxc.com:8080/play/live.php?mac=00:2A:01:90:55:C7&stream=328684&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="STAR TV 2K" group-title="ᴛʀ • UHD",STAR TV 2K
+http://clubxc.com:8080/play/live.php?mac=00:2A:01:90:55:C7&stream=691449&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TV 8 4K" group-title="ᴛʀ • UHD",TV 8 4K
+http://clubxc.com:8080/play/live.php?mac=00:2A:01:90:55:C7&stream=328682&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="
