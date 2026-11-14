@@ -5486,3 +5486,1016 @@ http://restream.oled-ott.net/play/live.php?mac=00:1B:79:53:11:1D&stream=210464&e
 http://restream.oled-ott.net/play/live.php?mac=00:1B:79:53:11:1D&stream=210463&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="┃TR┃ TV5 HD" group-title="┃TR┃ DINI",┃TR┃ TV5 HD
 http://restream.oled-ott.net/play/live.php?mac=00:1B:79:53:11:1D&stream=210462&extension=ts
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="###### TÜRKIYE TV 4K ######" group-title="TR| TÜRKIYE 4K TV",###### TÜRKIYE TV 4K ######
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=373935&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: ATV HD" group-title="TR| TÜRKIYE 4K TV",TR: ATV HD
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=281613&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: ATV Avrupa" group-title="TR| TÜRKIYE 4K TV",TR: ATV Avrupa
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=4539&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Star TV 4K" group-title="TR| TÜRKIYE 4K TV",TR: Star TV 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=8705&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Star TV HD" group-title="TR| TÜRKIYE 4K TV",TR: Star TV HD
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=282262&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Show TV 4K" group-title="TR| TÜRKIYE 4K TV",TR: Show TV 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=8690&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Kanal D HD" group-title="TR| TÜRKIYE 4K TV",TR: Kanal D HD
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=282273&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: NOW HD" group-title="TR| TÜRKIYE 4K TV",TR: NOW HD
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=282383&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Kanal 7 HD" group-title="TR| TÜRKIYE 4K TV",TR: Kanal 7 HD
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=282384&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: TV8 4K" group-title="TR| TÜRKIYE 4K TV",TR: TV8 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=8678&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: TV8 HD" group-title="TR| TÜRKIYE 4K TV",TR: TV8 HD
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=942083&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: TV8 ᴿᴬᵂ" group-title="TR| TÜRKIYE 4K TV",TR: TV8 ᴿᴬᵂ
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=942084&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Euro Star" group-title="TR| TÜRKIYE 4K TV",TR: Euro Star
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=3384&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Euro D" group-title="TR| TÜRKIYE 4K TV",TR: Euro D
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=3368&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT 1 4K" group-title="TR| TÜRKIYE 4K TV",TR: TRT 1 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=4535&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT 1 HD" group-title="TR| TÜRKIYE 4K TV",TR: TRT 1 HD
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=281612&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Kanal 7 Avrupa 4K" group-title="TR| TÜRKIYE 4K TV",TR: Kanal 7 Avrupa 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=4536&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEYAZ TV 4K" group-title="TR| TÜRKIYE 4K TV",TR: BEYAZ TV 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=3442&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Teve 2 4K" group-title="TR| TÜRKIYE 4K TV",TR: Teve 2 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=19981&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Show Max" group-title="TR| TÜRKIYE 4K TV",TR: Show Max
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=8708&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: A2 Turkiya 4K" group-title="TR| TÜRKIYE 4K TV",TR: A2 Turkiya 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=8725&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: TV8.5 4K" group-title="TR| TÜRKIYE 4K TV",TR: TV8.5 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=8686&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: TV 8 INT" group-title="TR| TÜRKIYE 4K TV",TR: TV 8 INT
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=3366&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: TV 8 International" group-title="TR| TÜRKIYE 4K TV",TR: TV 8 International
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=19982&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT Diyanet TV HD" group-title="TR| TÜRKIYE 4K TV",TR: TRT Diyanet TV HD
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=301132&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT Turk 4K" group-title="TR| TÜRKIYE 4K TV",TR: TRT Turk 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=4533&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT World 4K" group-title="TR| TÜRKIYE 4K TV",TR: TRT World 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=4529&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: TGRT EU" group-title="TR| TÜRKIYE 4K TV",TR: TGRT EU
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=3425&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: TGRT Belgesel" group-title="TR| TÜRKIYE 4K TV",TR: TGRT Belgesel
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=3426&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: 360 TV 4K" group-title="TR| TÜRKIYE 4K TV",TR: 360 TV 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=8687&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Al Turkmenia TV" group-title="TR| TÜRKIYE 4K TV",TR: Al Turkmenia TV
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=764644&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: TURKMENELI TV 4K" group-title="TR| TÜRKIYE 4K TV",TR: TURKMENELI TV 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=764643&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Ulusal Kanal" group-title="TR| TÜRKIYE 4K TV",TR: Ulusal Kanal
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=8722&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Blommberg HT 4K" group-title="TR| TÜRKIYE 4K TV",TR: Blommberg HT 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=8710&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Blommberg HT HD" group-title="TR| TÜRKIYE 4K TV",TR: Blommberg HT HD
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=281791&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: BRT 1 KKTC 4K" group-title="TR| TÜRKIYE 4K TV",TR: BRT 1 KKTC 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=3395&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: BRT 2 KKTC 4K" group-title="TR| TÜRKIYE 4K TV",TR: BRT 2 KKTC 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=3396&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Akit TV 4K" group-title="TR| TÜRKIYE 4K TV",TR: Akit TV 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=3430&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Kon TV 4K" group-title="TR| TÜRKIYE 4K TV",TR: Kon TV 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=3436&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: LALEGUL" group-title="TR| TÜRKIYE 4K TV",TR: LALEGUL
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=200365&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: CNN Turk 4K" group-title="TR| TÜRKIYE 4K TV",TR: CNN Turk 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=3365&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: BENGUTURK" group-title="TR| TÜRKIYE 4K TV",TR: BENGUTURK
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=3435&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Gonca TV" group-title="TR| TÜRKIYE 4K TV",TR: Gonca TV
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=3444&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Kanal 33" group-title="TR| TÜRKIYE 4K TV",TR: Kanal 33
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=8731&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Kanal B" group-title="TR| TÜRKIYE 4K TV",TR: Kanal B
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=3440&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Kanal V" group-title="TR| TÜRKIYE 4K TV",TR: Kanal V
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=3427&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: ULKE TV" group-title="TR| TÜRKIYE 4K TV",TR: ULKE TV
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=8713&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Mavi Karad" group-title="TR| TÜRKIYE 4K TV",TR: Mavi Karad
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=8723&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Mavi Karadeniz" group-title="TR| TÜRKIYE 4K TV",TR: Mavi Karadeniz
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=3416&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: On 4" group-title="TR| TÜRKIYE 4K TV",TR: On 4
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=8732&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Sat 7 Turk" group-title="TR| TÜRKIYE 4K TV",TR: Sat 7 Turk
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=3422&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Turk Haber" group-title="TR| TÜRKIYE 4K TV",TR: Turk Haber
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=301473&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: TV 41" group-title="TR| TÜRKIYE 4K TV",TR: TV 41
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=3419&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: TV Kayseri" group-title="TR| TÜRKIYE 4K TV",TR: TV Kayseri
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=3434&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: TV4 4K" group-title="TR| TÜRKIYE 4K TV",TR: TV4 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=8684&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT EBA TV ORTAOKUL" group-title="TR| TÜRKIYE 4K TV",TR: TRT EBA TV ORTAOKUL
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=110719&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT AVAZ TV HD" group-title="TR| TÜRKIYE 4K TV",TR: TRT AVAZ TV HD
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=652778&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Ekinturk TV" group-title="TR| TÜRKIYE 4K TV",TR: Ekinturk TV
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=590911&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Dost TV" group-title="TR| TÜRKIYE 4K TV",TR: Dost TV
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=595832&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: TAY TV" group-title="TR| TÜRKIYE 4K TV",TR: TAY TV
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=2152477&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="###### ÇOCUKLAR 4K ######" group-title="TR| ÇOCUKLAR 4K",###### ÇOCUKLAR 4K ######
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=373931&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT Çocuk 4K" group-title="TR| ÇOCUKLAR 4K",TR: TRT Çocuk 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=4530&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT Diyanet Cocuk HD" group-title="TR| ÇOCUKLAR 4K",TR: TRT Diyanet Cocuk HD
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=763666&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Nickelodeon HD" group-title="TR| ÇOCUKLAR 4K",TR: Nickelodeon HD
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=200298&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Minika Cocuk" group-title="TR| ÇOCUKLAR 4K",TR: Minika Cocuk
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=8697&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Carton Network" group-title="TR| ÇOCUKLAR 4K",TR: Carton Network
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=8695&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Minika Go" group-title="TR| ÇOCUKLAR 4K",TR: Minika Go
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=8698&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Disney Junior HD" group-title="TR| ÇOCUKLAR 4K",TR: Disney Junior HD
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=200300&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Boomerang HD" group-title="TR| ÇOCUKLAR 4K",TR: Boomerang HD
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=200370&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: BABY TV" group-title="TR| ÇOCUKLAR 4K",TR: BABY TV
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=501810&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: 8KGO OD 1 ÇOCUKLAR 4K" group-title="TR| ÇOCUKLAR 4K",TR: 8KGO OD 1 ÇOCUKLAR 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=373651&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: 8KGO OD 2 ÇOCUKLAR 4K" group-title="TR| ÇOCUKLAR 4K",TR: 8KGO OD 2 ÇOCUKLAR 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=373650&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: 8KGO OD 3 ÇOCUKLAR 4K" group-title="TR| ÇOCUKLAR 4K",TR: 8KGO OD 3 ÇOCUKLAR 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=373649&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: 8KGO OD 4 ÇOCUKLAR 4K" group-title="TR| ÇOCUKLAR 4K",TR: 8KGO OD 4 ÇOCUKLAR 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=373648&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: 8KGO OD 5 ÇOCUKLAR 4K" group-title="TR| ÇOCUKLAR 4K",TR: 8KGO OD 5 ÇOCUKLAR 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=373647&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: 8KGO OD 6 ÇOCUKLAR 4K" group-title="TR| ÇOCUKLAR 4K",TR: 8KGO OD 6 ÇOCUKLAR 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=373646&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: 8KGO OD 7 ÇOCUKLAR 4K" group-title="TR| ÇOCUKLAR 4K",TR: 8KGO OD 7 ÇOCUKLAR 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=373645&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: 8KGO OD 8 ÇOCUKLAR 4K" group-title="TR| ÇOCUKLAR 4K",TR: 8KGO OD 8 ÇOCUKLAR 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=373644&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: 8KGO OD 9 ÇOCUKLAR 4K" group-title="TR| ÇOCUKLAR 4K",TR: 8KGO OD 9 ÇOCUKLAR 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=373643&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: 8KGO OD 10 ÇOCUKLAR 4K" group-title="TR| ÇOCUKLAR 4K",TR: 8KGO OD 10 ÇOCUKLAR 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=373642&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="###### FIMLER 4K ######" group-title="TR| FIMLER 4K",###### FIMLER 4K ######
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=373933&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: ATV 4K" group-title="TR| FIMLER 4K",TR: ATV 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=8681&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: A2 Turkiya HD" group-title="TR| FIMLER 4K",TR: A2 Turkiya HD
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=281790&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: NOW 4K" group-title="TR| FIMLER 4K",TR: NOW 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=8689&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Kanal 7 4K" group-title="TR| FIMLER 4K",TR: Kanal 7 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=8688&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Kanal D 4K" group-title="TR| FIMLER 4K",TR: Kanal D 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=8704&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Teve 2 HD" group-title="TR| FIMLER 4K",TR: Teve 2 HD
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=282266&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: DiZi PREMIUM" group-title="TR| FIMLER 4K",TR: DiZi PREMIUM
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=200368&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: 8KGO BOX OFFICE 1 4K" group-title="TR| FIMLER 4K",TR: 8KGO BOX OFFICE 1 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=200328&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: 8KGO BOX OFFICE 2 4K" group-title="TR| FIMLER 4K",TR: 8KGO BOX OFFICE 2 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=200327&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: 8KGO BOX OFFICE 3 4K" group-title="TR| FIMLER 4K",TR: 8KGO BOX OFFICE 3 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=200326&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: 8KGO MOVIES ACTION 4K" group-title="TR| FIMLER 4K",TR: 8KGO MOVIES ACTION 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=200306&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: 8KGO MOVIES ACTION 2 4K" group-title="TR| FIMLER 4K",TR: 8KGO MOVIES ACTION 2 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=409738&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: 8KGO MOVIES STARS 4K" group-title="TR| FIMLER 4K",TR: 8KGO MOVIES STARS 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=200304&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: 8KGO MOVIES TURK 4K" group-title="TR| FIMLER 4K",TR: 8KGO MOVIES TURK 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=200303&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: 8KGO MOVIES FAMILY 4K" group-title="TR| FIMLER 4K",TR: 8KGO MOVIES FAMILY 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=200305&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: 8KGO MOVIES FAMILY 4K" group-title="TR| FIMLER 4K",TR: 8KGO MOVIES FAMILY 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=409739&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: 8KGO MOVIES PRMIERE 4K" group-title="TR| FIMLER 4K",TR: 8KGO MOVIES PRMIERE 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=409741&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: 8KGO MOVIES PREMIERE 2 4K" group-title="TR| FIMLER 4K",TR: 8KGO MOVIES PREMIERE 2 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=409740&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: 8KGO SERIES COMEDY 4K" group-title="TR| FIMLER 4K",TR: 8KGO SERIES COMEDY 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=200309&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: 8KGO SERIES DRAMA 4K" group-title="TR| FIMLER 4K",TR: 8KGO SERIES DRAMA 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=200308&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: 8KGO SERIES VICE 4K" group-title="TR| FIMLER 4K",TR: 8KGO SERIES VICE 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=200307&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: 8KGO SERIES SCI-FI 4K" group-title="TR| FIMLER 4K",TR: 8KGO SERIES SCI-FI 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=409743&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: FX+  4K" group-title="TR| FIMLER 4K",TR: FX+  4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=423534&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: MOVIE SMART PREMIUM 1 4K" group-title="TR| FIMLER 4K",TR: MOVIE SMART PREMIUM 1 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=200321&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: MOVIE SMART CLASSIC 4K" group-title="TR| FIMLER 4K",TR: MOVIE SMART CLASSIC 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=200318&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: MOVIE SMART TURK 4K" group-title="TR| FIMLER 4K",TR: MOVIE SMART TURK 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=200313&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: SINEMA TV 4K" group-title="TR| FIMLER 4K",TR: SINEMA TV 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=508596&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: SINEMA TV 1002 4K" group-title="TR| FIMLER 4K",TR: SINEMA TV 1002 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=508599&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: SINEMA TV AILE 4K" group-title="TR| FIMLER 4K",TR: SINEMA TV AILE 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=409744&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: SINEMA TV AILE 2 4K" group-title="TR| FIMLER 4K",TR: SINEMA TV AILE 2 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=508598&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: SINEMA TV KOMEDI 4K" group-title="TR| FIMLER 4K",TR: SINEMA TV KOMEDI 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=508597&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: SINEMA TV AKSIYON 4K" group-title="TR| FIMLER 4K",TR: SINEMA TV AKSIYON 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=508593&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMBOX PREMIER ᴴᴰ" group-title="TR| FIMLER 4K",TR: FILMBOX PREMIER ᴴᴰ
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=668798&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMBOX ACTION ᴴᴰ" group-title="TR| FIMLER 4K",TR: FILMBOX ACTION ᴴᴰ
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=668797&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMBOX FANTASTIC ᴴᴰ" group-title="TR| FIMLER 4K",TR: FILMBOX FANTASTIC ᴴᴰ
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=668796&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMBOX FAMILY ᴴᴰ" group-title="TR| FIMLER 4K",TR: FILMBOX FAMILY ᴴᴰ
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=668794&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMBOX ROMANTIC ᴴᴰ" group-title="TR| FIMLER 4K",TR: FILMBOX ROMANTIC ᴴᴰ
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=668793&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMBOX COMEDY ᴴᴰ" group-title="TR| FIMLER 4K",TR: FILMBOX COMEDY ᴴᴰ
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=668792&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMBOX DRAMA ᴴᴰ" group-title="TR| FIMLER 4K",TR: FILMBOX DRAMA ᴴᴰ
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=668790&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMBOX CUNEYT ARKIN ᴴᴰ" group-title="TR| FIMLER 4K",TR: FILMBOX CUNEYT ARKIN ᴴᴰ
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=668789&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMBOX ILYAS SALMAN ᴴᴰ" group-title="TR| FIMLER 4K",TR: FILMBOX ILYAS SALMAN ᴴᴰ
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=668788&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMBOX KADIR INANIR ᴴᴰ" group-title="TR| FIMLER 4K",TR: FILMBOX KADIR INANIR ᴴᴰ
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=668787&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMBOX TARIK AKAN ᴴᴰ" group-title="TR| FIMLER 4K",TR: FILMBOX TARIK AKAN ᴴᴰ
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=668786&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMBOX ZEKI &amp; METIN ᴴᴰ" group-title="TR| FIMLER 4K",TR: FILMBOX ZEKI &amp; METIN ᴴᴰ
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=668785&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMBOX SENER SEN ᴴᴰ" group-title="TR| FIMLER 4K",TR: FILMBOX SENER SEN ᴴᴰ
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=668784&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMBOX YESILCAM ᴴᴰ" group-title="TR| FIMLER 4K",TR: FILMBOX YESILCAM ᴴᴰ
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=668783&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMBOX YERLI ᴴᴰ" group-title="TR| FIMLER 4K",TR: FILMBOX YERLI ᴴᴰ
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=668782&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: 8KGO OD 1 FİLMLER 4K" group-title="TR| FIMLER 4K",TR: 8KGO OD 1 FİLMLER 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=373927&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: 8KGO OD 2 FİLMLER 4K" group-title="TR| FIMLER 4K",TR: 8KGO OD 2 FİLMLER 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=373926&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: 8KGO OD 3 FİLMLER 4K" group-title="TR| FIMLER 4K",TR: 8KGO OD 3 FİLMLER 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=373925&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: 8KGO OD 4 FİLMLER 4K" group-title="TR| FIMLER 4K",TR: 8KGO OD 4 FİLMLER 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=373924&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: 8KGO OD 5 FİLMLER 4K" group-title="TR| FIMLER 4K",TR: 8KGO OD 5 FİLMLER 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=373923&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: 8KGO OD 6 FİLMLER 4K" group-title="TR| FIMLER 4K",TR: 8KGO OD 6 FİLMLER 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=373922&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: 8KGO OD 7 FİLMLER 4K" group-title="TR| FIMLER 4K",TR: 8KGO OD 7 FİLMLER 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=373921&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: 8KGO OD 8 FİLMLER 4K" group-title="TR| FIMLER 4K",TR: 8KGO OD 8 FİLMLER 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=373920&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: 8KGO OD 9 FİLMLER 4K" group-title="TR| FIMLER 4K",TR: 8KGO OD 9 FİLMLER 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=373919&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: 8KGO OD 10 FİLMLER 4K" group-title="TR| FIMLER 4K",TR: 8KGO OD 10 FİLMLER 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=373918&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: 8KGO OD 11 FİLMLER 4K" group-title="TR| FIMLER 4K",TR: 8KGO OD 11 FİLMLER 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=373917&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: 8KGO OD 12 FİLMLER 4K" group-title="TR| FIMLER 4K",TR: 8KGO OD 12 FİLMLER 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=373916&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: 8KGO OD 13 FİLMLER 4K" group-title="TR| FIMLER 4K",TR: 8KGO OD 13 FİLMLER 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=373915&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: 8KGO OD 14 FİLMLER 4K" group-title="TR| FIMLER 4K",TR: 8KGO OD 14 FİLMLER 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=373914&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: 8KGO OD 15 FİLMLER 4K" group-title="TR| FIMLER 4K",TR: 8KGO OD 15 FİLMLER 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=373913&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: 8KGO OD 16 FİLMLER 4K" group-title="TR| FIMLER 4K",TR: 8KGO OD 16 FİLMLER 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=373912&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: 8KGO OD 17 FİLMLER 4K" group-title="TR| FIMLER 4K",TR: 8KGO OD 17 FİLMLER 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=373911&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: 8KGO OD 18 FİLMLER 4K" group-title="TR| FIMLER 4K",TR: 8KGO OD 18 FİLMLER 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=373910&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: 8KGO OD 19 FİLMLER 4K" group-title="TR| FIMLER 4K",TR: 8KGO OD 19 FİLMLER 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=373909&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: 8KGO OD 20 FİLMLER 4K" group-title="TR| FIMLER 4K",TR: 8KGO OD 20 FİLMLER 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=373908&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: 8KGO OD 21 FİLMLER 4K" group-title="TR| FIMLER 4K",TR: 8KGO OD 21 FİLMLER 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=373907&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: 8KGO OD 22 FİLMLER 4K" group-title="TR| FIMLER 4K",TR: 8KGO OD 22 FİLMLER 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=373906&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: 8KGO OD 23 FİLMLER 4K" group-title="TR| FIMLER 4K",TR: 8KGO OD 23 FİLMLER 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=373905&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: 8KGO OD 24 FİLMLER 4K" group-title="TR| FIMLER 4K",TR: 8KGO OD 24 FİLMLER 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=373904&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: 8KGO OD 25 FİLMLER 4K" group-title="TR| FIMLER 4K",TR: 8KGO OD 25 FİLMLER 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=373903&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: 8KGO OD 26 FİLMLER 4K" group-title="TR| FIMLER 4K",TR: 8KGO OD 26 FİLMLER 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=373902&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: 8KGO OD 27 FİLMLER 4K" group-title="TR| FIMLER 4K",TR: 8KGO OD 27 FİLMLER 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=373901&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: 8KGO OD 28 FİLMLER 4K" group-title="TR| FIMLER 4K",TR: 8KGO OD 28 FİLMLER 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=373900&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: 8KGO OD 29 FİLMLER 4K" group-title="TR| FIMLER 4K",TR: 8KGO OD 29 FİLMLER 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=373899&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: 8KGO OD 30 FİLMLER 4K" group-title="TR| FIMLER 4K",TR: 8KGO OD 30 FİLMLER 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=373898&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="##### DIZILER 4K #####" group-title="TR| DIZILER 4K",##### DIZILER 4K #####
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=375425&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Adı Sevgi 4K" group-title="TR| DIZILER 4K",TR: Adı Sevgi 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=385308&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Aşk Mantık İntikam 4K" group-title="TR| DIZILER 4K",TR: Aşk Mantık İntikam 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=385309&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Kalp Yarası 4K" group-title="TR| DIZILER 4K",TR: Kalp Yarası 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=385310&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Sadakatsiz 4K" group-title="TR| DIZILER 4K",TR: Sadakatsiz 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=385311&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Ada Masalı 4K" group-title="TR| DIZILER 4K",TR: Ada Masalı 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=384764&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Annemizi Saklarken 4K" group-title="TR| DIZILER 4K",TR: Annemizi Saklarken 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=384765&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Destiny 4K" group-title="TR| DIZILER 4K",TR: Destiny 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=384766&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Elbet Bir Gün 4K" group-title="TR| DIZILER 4K",TR: Elbet Bir Gün 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=384767&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Gülümse Kaderine 4K" group-title="TR| DIZILER 4K",TR: Gülümse Kaderine 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=384768&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Iffet 4K" group-title="TR| DIZILER 4K",TR: Iffet 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=384769&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Kanunsuz Topraklar 4K" group-title="TR| DIZILER 4K",TR: Kanunsuz Topraklar 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=384770&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Son Nefesime Kadar 4K" group-title="TR| DIZILER 4K",TR: Son Nefesime Kadar 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=384771&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Kırmızı Oda 4K" group-title="TR| DIZILER 4K",TR: Kırmızı Oda 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=384772&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Elimi Bırakma 4K" group-title="TR| DIZILER 4K",TR: Elimi Bırakma 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=380137&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Teşkilat 4K" group-title="TR| DIZILER 4K",TR: Teşkilat 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=380136&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Evil Sezon 1 4K" group-title="TR| DIZILER 4K",TR: Evil Sezon 1 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=379325&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Evil Sezon 2 4K" group-title="TR| DIZILER 4K",TR: Evil Sezon 2 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=379324&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Masum 4K" group-title="TR| DIZILER 4K",TR: Masum 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=379323&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Spy City 4K" group-title="TR| DIZILER 4K",TR: Spy City 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=379322&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: The Man Who Fell to Earth 4K" group-title="TR| DIZILER 4K",TR: The Man Who Fell to Earth 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=379321&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Üç Kuruş 4K" group-title="TR| DIZILER 4K",TR: Üç Kuruş 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=379320&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Kuruluş Osman Sezon 1 4K" group-title="TR| DIZILER 4K",TR: Kuruluş Osman Sezon 1 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=378995&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Kuruluş Osman Sezon 2 4K" group-title="TR| DIZILER 4K",TR: Kuruluş Osman Sezon 2 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=378996&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Kuruluş Osman Sezon 3 4K" group-title="TR| DIZILER 4K",TR: Kuruluş Osman Sezon 3 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=378997&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Aziz 4K" group-title="TR| DIZILER 4K",TR: Aziz 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=378998&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Destan 4K" group-title="TR| DIZILER 4K",TR: Destan 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=378999&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Sevmek Zamanı 4K" group-title="TR| DIZILER 4K",TR: Sevmek Zamanı 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=379000&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Var Bunlar 4K" group-title="TR| DIZILER 4K",TR: Var Bunlar 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=379001&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Yalnız Kurt 4K" group-title="TR| DIZILER 4K",TR: Yalnız Kurt 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=379002&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: İçimizdeki Ateş 4K" group-title="TR| DIZILER 4K",TR: İçimizdeki Ateş 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=379003&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: 50 m² 4K" group-title="TR| DIZILER 4K",TR: 50 m² 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=375426&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: All of Us Are Dead 4K" group-title="TR| DIZILER 4K",TR: All of Us Are Dead 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=375427&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Altered Carbon Sezon 1 4K" group-title="TR| DIZILER 4K",TR: Altered Carbon Sezon 1 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=375428&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Altered Carbon Sezon 2 4K" group-title="TR| DIZILER 4K",TR: Altered Carbon Sezon 2 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=375429&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Aşk 101 Sezon 1 4K" group-title="TR| DIZILER 4K",TR: Aşk 101 Sezon 1 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=375430&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Aşk 101 Sezon 2 4K" group-title="TR| DIZILER 4K",TR: Aşk 101 Sezon 2 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=375431&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Dark Sezon 1 4K" group-title="TR| DIZILER 4K",TR: Dark Sezon 1 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=375432&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Dark Sezon 2 4K" group-title="TR| DIZILER 4K",TR: Dark Sezon 2 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=375433&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Dark Sezon 3 4K" group-title="TR| DIZILER 4K",TR: Dark Sezon 3 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=375434&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: El Chapo Sezon 1 4K" group-title="TR| DIZILER 4K",TR: El Chapo Sezon 1 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=375435&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: El Chapo Sezon 2 4K" group-title="TR| DIZILER 4K",TR: El Chapo Sezon 2 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=375436&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: El Chapo Sezon 3 4K" group-title="TR| DIZILER 4K",TR: El Chapo Sezon 3 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=375437&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Erşan Kuneri 4K" group-title="TR| DIZILER 4K",TR: Erşan Kuneri 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=375438&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Eski Polis Komiserinin Sırrı 4K" group-title="TR| DIZILER 4K",TR: Eski Polis Komiserinin Sırrı 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=375439&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: First Kill 4K" group-title="TR| DIZILER 4K",TR: First Kill 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=375440&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Into The Night Sezon 1 4K" group-title="TR| DIZILER 4K",TR: Into The Night Sezon 1 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=375441&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Into The Night Sezon 2 4K" group-title="TR| DIZILER 4K",TR: Into The Night Sezon 2 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=375442&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Kuş Uçuşu 4K" group-title="TR| DIZILER 4K",TR: Kuş Uçuşu 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=375443&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: La Casa de Papel Sezon 1 4K" group-title="TR| DIZILER 4K",TR: La Casa de Papel Sezon 1 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=375444&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: La Casa de Papel Sezon 2 4K" group-title="TR| DIZILER 4K",TR: La Casa de Papel Sezon 2 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=375445&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: La Casa de Papel Sezon 3 4K" group-title="TR| DIZILER 4K",TR: La Casa de Papel Sezon 3 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=375446&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: La Casa de Papel Sezon 4 4K" group-title="TR| DIZILER 4K",TR: La Casa de Papel Sezon 4 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=375447&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: La Casa de Papel Sezon 5 4K" group-title="TR| DIZILER 4K",TR: La Casa de Papel Sezon 5 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=375448&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Lupin Sezon 1 4K" group-title="TR| DIZILER 4K",TR: Lupin Sezon 1 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=375449&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Lupin Sezon 2 4K" group-title="TR| DIZILER 4K",TR: Lupin Sezon 2 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=375450&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Man Vs Bee 4K" group-title="TR| DIZILER 4K",TR: Man Vs Bee 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=375451&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: My Name 4K" group-title="TR| DIZILER 4K",TR: My Name 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=375452&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Narcos  Sezon 1 4K" group-title="TR| DIZILER 4K",TR: Narcos  Sezon 1 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=375453&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Narcos Sezon 2 4K" group-title="TR| DIZILER 4K",TR: Narcos Sezon 2 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=375454&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Narcos Sezon 3 4K" group-title="TR| DIZILER 4K",TR: Narcos Sezon 3 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=375455&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Pera Palasta Gece Yarısı 4K" group-title="TR| DIZILER 4K",TR: Pera Palasta Gece Yarısı 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=375456&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Queen Of The South  Sezon 1 4K" group-title="TR| DIZILER 4K",TR: Queen Of The South  Sezon 1 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=375457&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Queen Of The South Sezon 2 4K" group-title="TR| DIZILER 4K",TR: Queen Of The South Sezon 2 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=375458&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Queen Of The South Sezon 3 4K" group-title="TR| DIZILER 4K",TR: Queen Of The South Sezon 3 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=375459&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Queen Of The South Sezon 4 4K" group-title="TR| DIZILER 4K",TR: Queen Of The South Sezon 4 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=375460&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Queen Of The South Sezon 5 4K" group-title="TR| DIZILER 4K",TR: Queen Of The South Sezon 5 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=375461&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Space Force  Sezon 1 4K" group-title="TR| DIZILER 4K",TR: Space Force  Sezon 1 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=375462&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Space Force Sezon 2 4K" group-title="TR| DIZILER 4K",TR: Space Force Sezon 2 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=375463&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Squid Game 4K" group-title="TR| DIZILER 4K",TR: Squid Game 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=375464&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Suits Sezon 1 4K" group-title="TR| DIZILER 4K",TR: Suits Sezon 1 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=375465&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Suits Sezon 2 4K" group-title="TR| DIZILER 4K",TR: Suits Sezon 2 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=375466&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Suits Sezon 3 4K" group-title="TR| DIZILER 4K",TR: Suits Sezon 3 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=375467&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Suits Sezon 4 4K" group-title="TR| DIZILER 4K",TR: Suits Sezon 4 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=375468&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Suits Sezon 5 4K" group-title="TR| DIZILER 4K",TR: Suits Sezon 5 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=375469&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Suits Sezon 6 4K" group-title="TR| DIZILER 4K",TR: Suits Sezon 6 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=375470&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Suits Sezon 7 4K" group-title="TR| DIZILER 4K",TR: Suits Sezon 7 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=375471&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Suits Sezon 8 4K" group-title="TR| DIZILER 4K",TR: Suits Sezon 8 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=375472&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Suits Sezon 9 4K" group-title="TR| DIZILER 4K",TR: Suits Sezon 9 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=375473&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Titans Sezon 1 4K" group-title="TR| DIZILER 4K",TR: Titans Sezon 1 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=375474&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Titans Sezon 2 4K" group-title="TR| DIZILER 4K",TR: Titans Sezon 2 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=375475&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Titans Sezon 3 4K" group-title="TR| DIZILER 4K",TR: Titans Sezon 3 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=375476&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Top Boy Sezon 1 4K" group-title="TR| DIZILER 4K",TR: Top Boy Sezon 1 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=375477&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Top Boy Sezon 2 4K" group-title="TR| DIZILER 4K",TR: Top Boy Sezon 2 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=375478&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: V Wars 4K" group-title="TR| DIZILER 4K",TR: V Wars 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=375479&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Vikings Valhalla 4K" group-title="TR| DIZILER 4K",TR: Vikings Valhalla 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=375480&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Yakamoz S-245 4K" group-title="TR| DIZILER 4K",TR: Yakamoz S-245 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=375481&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Doğduğun Ev Kaderindir 4K" group-title="TR| DIZILER 4K",TR: Doğduğun Ev Kaderindir 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=299827&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Kağıt Ev 4K" group-title="TR| DIZILER 4K",TR: Kağıt Ev 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=299826&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Kahraman Babam 4K" group-title="TR| DIZILER 4K",TR: Kahraman Babam 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=299825&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Öğretmen 4K" group-title="TR| DIZILER 4K",TR: Öğretmen 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=299824&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="###### HABER 4K ######" group-title="TR| HABER 4K",###### HABER 4K ######
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=373932&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT Haber 4K" group-title="TR| HABER 4K",TR: TRT Haber 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=3387&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Haber Turk 4K" group-title="TR| HABER 4K",TR: Haber Turk 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=8694&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Haber Turk HD" group-title="TR| HABER 4K",TR: Haber Turk HD
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=282382&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: NTV 4K" group-title="TR| HABER 4K",TR: NTV 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=8703&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: EKOTURK" group-title="TR| HABER 4K",TR: EKOTURK
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=239988&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Halk TV" group-title="TR| HABER 4K",TR: Halk TV
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=3443&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Halk TV RAW" group-title="TR| HABER 4K",TR: Halk TV RAW
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=990001&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: CNN Turk 4K" group-title="TR| HABER 4K",TR: CNN Turk 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=8699&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: SZC TV" group-title="TR| HABER 4K",TR: SZC TV
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=475740&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: TV 52" group-title="TR| HABER 4K",TR: TV 52
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=1379453&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: TV 100 4K" group-title="TR| HABER 4K",TR: TV 100 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=1713570&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: CNN Turk HD" group-title="TR| HABER 4K",TR: CNN Turk HD
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=282380&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: A Haber 4K" group-title="TR| HABER 4K",TR: A Haber 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=4540&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: A Para 4K" group-title="TR| HABER 4K",TR: A Para 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=3382&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: TGRT Haber 4K" group-title="TR| HABER 4K",TR: TGRT Haber 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=3424&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Global Haber TV 4K" group-title="TR| HABER 4K",TR: Global Haber TV 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=9100&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Global Haber TV HD" group-title="TR| HABER 4K",TR: Global Haber TV HD
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=282379&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Medya Haber" group-title="TR| HABER 4K",TR: Medya Haber
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=4525&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Kanal T" group-title="TR| HABER 4K",TR: Kanal T
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=3399&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="###### MÜZİK 4K ######" group-title="TR| MÜZİK 4K",###### MÜZİK 4K ######
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=373930&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Power Turk 4K" group-title="TR| MÜZİK 4K",TR: Power Turk 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=8707&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Power 4K" group-title="TR| MÜZİK 4K",TR: Power 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=8706&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Power HD" group-title="TR| MÜZİK 4K",TR: Power HD
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=282271&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT Muzik 4K" group-title="TR| MÜZİK 4K",TR: TRT Muzik 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=4534&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: NR1 Turk HD" group-title="TR| MÜZİK 4K",TR: NR1 Turk HD
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=8730&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR:  ANADOLU DERMEK" group-title="TR| MÜZİK 4K",TR:  ANADOLU DERMEK
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=2145368&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT MUSIK" group-title="TR| MÜZİK 4K",TR: TRT MUSIK
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=1716864&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Kanal 58" group-title="TR| MÜZİK 4K",TR: Kanal 58
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=416809&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: TEMPO TV HD" group-title="TR| MÜZİK 4K",TR: TEMPO TV HD
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=416808&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="## 8KGO SPORTS GOLD ᴴᴰ ##" group-title="TR| 8KGO SPORTS GOLD",## 8KGO SPORTS GOLD ᴴᴰ ##
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=868693&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="GOLD: 8KGO SP⚽RTS HABER ʜᴅ" group-title="TR| 8KGO SPORTS GOLD",GOLD: 8KGO SP⚽RTS HABER ʜᴅ
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=868692&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="GOLD: 8KGO SP⚽RTS 1 ᴴᴰ" group-title="TR| 8KGO SPORTS GOLD",GOLD: 8KGO SP⚽RTS 1 ᴴᴰ
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=868691&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="GOLD: 8KGO SP⚽RTS 2 ᴴᴰ" group-title="TR| 8KGO SPORTS GOLD",GOLD: 8KGO SP⚽RTS 2 ᴴᴰ
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=868690&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="GOLD: 8KGO SP⚽RTS 3 ᴴᴰ" group-title="TR| 8KGO SPORTS GOLD",GOLD: 8KGO SP⚽RTS 3 ᴴᴰ
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=868689&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="GOLD: 8KGO SP⚽RTS 4 ᴴᴰ" group-title="TR| 8KGO SPORTS GOLD",GOLD: 8KGO SP⚽RTS 4 ᴴᴰ
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=868688&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="GOLD: 8KGO SP⚽RTS 5 ᴴᴰ" group-title="TR| 8KGO SPORTS GOLD",GOLD: 8KGO SP⚽RTS 5 ᴴᴰ
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=868687&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="GOLD: 8KGO SP⚽RTS MAX 1 ᴴᴰ" group-title="TR| 8KGO SPORTS GOLD",GOLD: 8KGO SP⚽RTS MAX 1 ᴴᴰ
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=868686&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="GOLD: 8KGO SP⚽RTS MAX 2 ᴴᴰ" group-title="TR| 8KGO SPORTS GOLD",GOLD: 8KGO SP⚽RTS MAX 2 ᴴᴰ
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=868685&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="GOLD: 8KGO SP⚽RTS 1 ʜᴅ" group-title="TR| 8KGO SPORTS GOLD",GOLD: 8KGO SP⚽RTS 1 ʜᴅ
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=868684&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="GOLD: 8KGO SP⚽RTS 2 ʜᴅ" group-title="TR| 8KGO SPORTS GOLD",GOLD: 8KGO SP⚽RTS 2 ʜᴅ
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=868683&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="GOLD: 8KGO SP⚽RTS 3 ʜᴅ" group-title="TR| 8KGO SPORTS GOLD",GOLD: 8KGO SP⚽RTS 3 ʜᴅ
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=868682&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="GOLD: 8KGO SP⚽RTS 4 ʜᴅ" group-title="TR| 8KGO SPORTS GOLD",GOLD: 8KGO SP⚽RTS 4 ʜᴅ
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=868681&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="GOLD: 8KGO SP⚽RTS 5 ʜᴅ" group-title="TR| 8KGO SPORTS GOLD",GOLD: 8KGO SP⚽RTS 5 ʜᴅ
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=868680&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="GOLD: 8KGO SP⚽RTS MAX 1 ʜᴅ" group-title="TR| 8KGO SPORTS GOLD",GOLD: 8KGO SP⚽RTS MAX 1 ʜᴅ
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=868679&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="GOLD: 8KGO SP⚽RTS MAX 2 ʜᴅ" group-title="TR| 8KGO SPORTS GOLD",GOLD: 8KGO SP⚽RTS MAX 2 ʜᴅ
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=868678&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="## TR| 8KGO SPORTS GOLD SD ##" group-title="TR| 8KGO SPORTS GOLD",## TR| 8KGO SPORTS GOLD SD ##
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=868677&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="GOLD: 8KGO SP⚽RTS 1 sᴅ" group-title="TR| 8KGO SPORTS GOLD",GOLD: 8KGO SP⚽RTS 1 sᴅ
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=868676&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="## TR| 8KGO SPORTS GOLD RAW ##" group-title="TR| 8KGO SPORTS GOLD",## TR| 8KGO SPORTS GOLD RAW ##
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=868675&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="GOLD: 8KGO SP⚽RTS 1 RAW" group-title="TR| 8KGO SPORTS GOLD",GOLD: 8KGO SP⚽RTS 1 RAW
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=868674&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="GOLD: 8KGO SP⚽RTS 2 RAW" group-title="TR| 8KGO SPORTS GOLD",GOLD: 8KGO SP⚽RTS 2 RAW
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=868673&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="GOLD: 8KGO SP⚽RTS 3 RAW" group-title="TR| 8KGO SPORTS GOLD",GOLD: 8KGO SP⚽RTS 3 RAW
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=868672&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="GOLD: 8KGO SP⚽RTS 4 RAW" group-title="TR| 8KGO SPORTS GOLD",GOLD: 8KGO SP⚽RTS 4 RAW
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=868671&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="GOLD: 8KGO SP⚽RTS 5 RAW" group-title="TR| 8KGO SPORTS GOLD",GOLD: 8KGO SP⚽RTS 5 RAW
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=868670&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="GOLD: 8KGO SP⚽RTS MAX 1 RAW" group-title="TR| 8KGO SPORTS GOLD",GOLD: 8KGO SP⚽RTS MAX 1 RAW
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=868669&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="GOLD: 8KGO SP⚽RTS MAX 2 RAW" group-title="TR| 8KGO SPORTS GOLD",GOLD: 8KGO SP⚽RTS MAX 2 RAW
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=868668&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="GOLD: 8KGO SP⚽RTS 1 RAW" group-title="TR| 8KGO SPORTS GOLD",GOLD: 8KGO SP⚽RTS 1 RAW
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=868667&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="GOLD: 8KGO SP⚽RTS 2 RAW" group-title="TR| 8KGO SPORTS GOLD",GOLD: 8KGO SP⚽RTS 2 RAW
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=868666&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="GOLD: 8KGO SP⚽RTS 3 RAW" group-title="TR| 8KGO SPORTS GOLD",GOLD: 8KGO SP⚽RTS 3 RAW
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=868665&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="GOLD: 8KGO SP⚽RTS 4 RAW" group-title="TR| 8KGO SPORTS GOLD",GOLD: 8KGO SP⚽RTS 4 RAW
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=868664&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="GOLD: 8KGO SP⚽RTS 5 RAW" group-title="TR| 8KGO SPORTS GOLD",GOLD: 8KGO SP⚽RTS 5 RAW
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=868663&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="GOLD: 8KGO SP⚽RTS 1 RAW" group-title="TR| 8KGO SPORTS GOLD",GOLD: 8KGO SP⚽RTS 1 RAW
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=868662&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="GOLD: 8KGO SP⚽RTS MAX 1 RAW" group-title="TR| 8KGO SPORTS GOLD",GOLD: 8KGO SP⚽RTS MAX 1 RAW
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=868661&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="GOLD: 8KGO SP⚽RTS MAX 2 RAW" group-title="TR| 8KGO SPORTS GOLD",GOLD: 8KGO SP⚽RTS MAX 2 RAW
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=868660&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="## TR| 8KGO SPORTS GOLD ᵁᴴᴰ 3840P ##" group-title="TR| 8KGO SPORTS GOLD",## TR| 8KGO SPORTS GOLD ᵁᴴᴰ 3840P ##
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=868659&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="GOLD: 8KGO SP⚽RTS 1 ᵁᴴᴰ 3840P" group-title="TR| 8KGO SPORTS GOLD",GOLD: 8KGO SP⚽RTS 1 ᵁᴴᴰ 3840P
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=868658&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="GOLD: 8KGO SP⚽RTS 2 ᵁᴴᴰ 3840P" group-title="TR| 8KGO SPORTS GOLD",GOLD: 8KGO SP⚽RTS 2 ᵁᴴᴰ 3840P
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=868657&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="## TR| EXXEN SPORTS GOLD ʜᴅ ##" group-title="TR| EXXEN SPORTS GOLD",## TR| EXXEN SPORTS GOLD ʜᴅ ##
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=868656&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="GOLD: EXXEN SPORT 1 ʜᴅ" group-title="TR| EXXEN SPORTS GOLD",GOLD: EXXEN SPORT 1 ʜᴅ
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=868655&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="GOLD: EXXEN SPORT 2 ʜᴅ" group-title="TR| EXXEN SPORTS GOLD",GOLD: EXXEN SPORT 2 ʜᴅ
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=868654&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="GOLD: EXXEN SPORT 3 ʜᴅ" group-title="TR| EXXEN SPORTS GOLD",GOLD: EXXEN SPORT 3 ʜᴅ
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=868653&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="GOLD: EXXEN SPORT 4 ʜᴅ" group-title="TR| EXXEN SPORTS GOLD",GOLD: EXXEN SPORT 4 ʜᴅ
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=868652&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="GOLD: EXXEN SPORT 5 ʜᴅ" group-title="TR| EXXEN SPORTS GOLD",GOLD: EXXEN SPORT 5 ʜᴅ
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=868651&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="GOLD: EXXEN SPORTS 1 ᴴᴰ" group-title="TR| EXXEN SPORTS GOLD",GOLD: EXXEN SPORTS 1 ᴴᴰ
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=868650&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="GOLD: EXXEN SPORTS 2 ʜᴅ" group-title="TR| EXXEN SPORTS GOLD",GOLD: EXXEN SPORTS 2 ʜᴅ
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=868649&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="GOLD: EXXEN SPORTS 3 ʜᴅ" group-title="TR| EXXEN SPORTS GOLD",GOLD: EXXEN SPORTS 3 ʜᴅ
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=868648&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="GOLD: EXXEN SPORTS 4 ʜᴅ" group-title="TR| EXXEN SPORTS GOLD",GOLD: EXXEN SPORTS 4 ʜᴅ
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=868647&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="GOLD: EXXEN SPORTS 5 ʜᴅ" group-title="TR| EXXEN SPORTS GOLD",GOLD: EXXEN SPORTS 5 ʜᴅ
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=868646&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="GOLD: EXXEN SPORTS 6 ʜᴅ" group-title="TR| EXXEN SPORTS GOLD",GOLD: EXXEN SPORTS 6 ʜᴅ
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=868645&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="GOLD: EXXEN SPORTS 7 ʜᴅ" group-title="TR| EXXEN SPORTS GOLD",GOLD: EXXEN SPORTS 7 ʜᴅ
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=868644&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="GOLD: EXXEN SPORTS 8 ʜᴅ" group-title="TR| EXXEN SPORTS GOLD",GOLD: EXXEN SPORTS 8 ʜᴅ
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=868643&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="## TR| EXXEN SPORTS GOLD SD ##" group-title="TR| EXXEN SPORTS GOLD",## TR| EXXEN SPORTS GOLD SD ##
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=868642&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="GOLD: EXXEN SPORTS 1 sᴅ" group-title="TR| EXXEN SPORTS GOLD",GOLD: EXXEN SPORTS 1 sᴅ
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=868641&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="GOLD: EXXEN TV SD" group-title="TR| EXXEN SPORTS GOLD",GOLD: EXXEN TV SD
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=868640&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="## TR| EXXEN SPORTS GOLD RAW ##" group-title="TR| EXXEN SPORTS GOLD",## TR| EXXEN SPORTS GOLD RAW ##
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=868639&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="GOLD: EXXEN TV RAW" group-title="TR| EXXEN SPORTS GOLD",GOLD: EXXEN TV RAW
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=868638&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="GOLD: EXXEN SPORTS 1 RAW" group-title="TR| EXXEN SPORTS GOLD",GOLD: EXXEN SPORTS 1 RAW
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=868637&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="## TR| SPOR KANALI GOLD ʜᴅ ##" group-title="TR| SPOR KANALI GOLD",## TR| SPOR KANALI GOLD ʜᴅ ##
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=868636&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="GOLD: TIVIBU SPOR 1 ʜᴅ" group-title="TR| SPOR KANALI GOLD",GOLD: TIVIBU SPOR 1 ʜᴅ
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=868635&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="GOLD: TIVIBU SPOR 2 ʜᴅ" group-title="TR| SPOR KANALI GOLD",GOLD: TIVIBU SPOR 2 ʜᴅ
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=868634&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="GOLD: TIVIBU SPOR 3 ʜᴅ" group-title="TR| SPOR KANALI GOLD",GOLD: TIVIBU SPOR 3 ʜᴅ
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=868633&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="GOLD: S SPORT 1 ʜᴅ" group-title="TR| SPOR KANALI GOLD",GOLD: S SPORT 1 ʜᴅ
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=868632&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="GOLD: S SPORT 2 ʜᴅ" group-title="TR| SPOR KANALI GOLD",GOLD: S SPORT 2 ʜᴅ
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=868631&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="GOLD: TRT SPOR ʜᴅ" group-title="TR| SPOR KANALI GOLD",GOLD: TRT SPOR ʜᴅ
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=868630&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="GOLD: A SPOR ʜᴅ" group-title="TR| SPOR KANALI GOLD",GOLD: A SPOR ʜᴅ
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=868629&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="GOLD: SPORTS TV ʜᴅ" group-title="TR| SPOR KANALI GOLD",GOLD: SPORTS TV ʜᴅ
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=868628&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="GOLD: SMART SPORT 1 ʜᴅ" group-title="TR| SPOR KANALI GOLD",GOLD: SMART SPORT 1 ʜᴅ
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=868627&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="GOLD: SMART SPORT 2 ʜᴅ" group-title="TR| SPOR KANALI GOLD",GOLD: SMART SPORT 2 ʜᴅ
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=868626&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="GOLD: FB TV ʜᴅ" group-title="TR| SPOR KANALI GOLD",GOLD: FB TV ʜᴅ
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=868625&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="GOLD: HTSPOR ʜᴅ" group-title="TR| SPOR KANALI GOLD",GOLD: HTSPOR ʜᴅ
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=868624&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="GOLD: NBA TV ʜᴅ" group-title="TR| SPOR KANALI GOLD",GOLD: NBA TV ʜᴅ
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=868623&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="GOLD: TRT 3 SPOR ʜᴅ" group-title="TR| SPOR KANALI GOLD",GOLD: TRT 3 SPOR ʜᴅ
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=868622&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="GOLD: TRT SPOR YILDIZ ʜᴅ" group-title="TR| SPOR KANALI GOLD",GOLD: TRT SPOR YILDIZ ʜᴅ
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=868621&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="GOLD: EUROSPORT 1 ʜᴅ" group-title="TR| SPOR KANALI GOLD",GOLD: EUROSPORT 1 ʜᴅ
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=868620&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="GOLD: EUROSPORT 2 ʜᴅ" group-title="TR| SPOR KANALI GOLD",GOLD: EUROSPORT 2 ʜᴅ
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=868619&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="GOLD: KANAL 26 ʜᴅ" group-title="TR| SPOR KANALI GOLD",GOLD: KANAL 26 ʜᴅ
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=868618&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="GOLD: EDGE SPORT ʜᴅ" group-title="TR| SPOR KANALI GOLD",GOLD: EDGE SPORT ʜᴅ
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=868617&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="## TR| SPOR KANALI GOLD SD ##" group-title="TR| SPOR KANALI GOLD",## TR| SPOR KANALI GOLD SD ##
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=868616&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="GOLD: S SPORT 1 SD" group-title="TR| SPOR KANALI GOLD",GOLD: S SPORT 1 SD
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=868615&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="GOLD: S SPORT 2 SD" group-title="TR| SPOR KANALI GOLD",GOLD: S SPORT 2 SD
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=868614&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="GOLD: TRT SPOR SD" group-title="TR| SPOR KANALI GOLD",GOLD: TRT SPOR SD
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=868613&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="GOLD: TRT SPOR YILDIZ SD" group-title="TR| SPOR KANALI GOLD",GOLD: TRT SPOR YILDIZ SD
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=868612&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="GOLD: A SPOR SD" group-title="TR| SPOR KANALI GOLD",GOLD: A SPOR SD
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=868611&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="## TR| SPOR KANALI GOLD RAW ##" group-title="TR| SPOR KANALI GOLD",## TR| SPOR KANALI GOLD RAW ##
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=868610&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="GOLD: SMART SPORT 1 RAW" group-title="TR| SPOR KANALI GOLD",GOLD: SMART SPORT 1 RAW
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=868609&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="GOLD: SMART SPORT 2 RAW" group-title="TR| SPOR KANALI GOLD",GOLD: SMART SPORT 2 RAW
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=868608&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="#### SPOR KANALI VIP ####" group-title="TR| SPOR KANALI VIP",#### SPOR KANALI VIP ####
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=401309&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR VIP: 8KGO SPORTS 1 HD" group-title="TR| SPOR KANALI VIP",TR VIP: 8KGO SPORTS 1 HD
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=401288&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR VIP: 8KGO SPORTS 1 HD+" group-title="TR| SPOR KANALI VIP",TR VIP: 8KGO SPORTS 1 HD+
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=401285&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR VIP: 8KGO SPORTS 2 HD" group-title="TR| SPOR KANALI VIP",TR VIP: 8KGO SPORTS 2 HD
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=401286&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR VIP: 8KGO SPORTS 2 HD+" group-title="TR| SPOR KANALI VIP",TR VIP: 8KGO SPORTS 2 HD+
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=401289&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR VIP: 8KGO SPORTS 2 HD+" group-title="TR| SPOR KANALI VIP",TR VIP: 8KGO SPORTS 2 HD+
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=401294&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR VIP: 8KGO SPORTS 3 4K" group-title="TR| SPOR KANALI VIP",TR VIP: 8KGO SPORTS 3 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=401287&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR VIP: 8KGO SPORTS 3 HD+" group-title="TR| SPOR KANALI VIP",TR VIP: 8KGO SPORTS 3 HD+
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=401290&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR VIP: 8KGO SPORTS 3 HD" group-title="TR| SPOR KANALI VIP",TR VIP: 8KGO SPORTS 3 HD
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=401295&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR VIP: 8KGO SPORTS 4 4K" group-title="TR| SPOR KANALI VIP",TR VIP: 8KGO SPORTS 4 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=401291&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR VIP: 8KGO SPORTS 4 HD" group-title="TR| SPOR KANALI VIP",TR VIP: 8KGO SPORTS 4 HD
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=401296&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR VIP: 8KGO SPORTS 5 4K" group-title="TR| SPOR KANALI VIP",TR VIP: 8KGO SPORTS 5 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=425474&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR VIP: 8KGO SPORTS 5 4K+" group-title="TR| SPOR KANALI VIP",TR VIP: 8KGO SPORTS 5 4K+
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=425475&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR VIP: 8KGO SPORTS MAX 1 HD" group-title="TR| SPOR KANALI VIP",TR VIP: 8KGO SPORTS MAX 1 HD
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=401292&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR VIP: 8KGO SPORTS MAX 1 HD" group-title="TR| SPOR KANALI VIP",TR VIP: 8KGO SPORTS MAX 1 HD
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=401297&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR VIP: 8KGO SPORTS MAX 2 HD" group-title="TR| SPOR KANALI VIP",TR VIP: 8KGO SPORTS MAX 2 HD
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=401293&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR VIP: 8KGO SPORTS MAX 2 HD" group-title="TR| SPOR KANALI VIP",TR VIP: 8KGO SPORTS MAX 2 HD
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=401298&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR VIP: 8KGO SPORTS MAÇ SAATI (FEED)" group-title="TR| SPOR KANALI VIP",TR VIP: 8KGO SPORTS MAÇ SAATI (FEED)
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=401300&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR VIP: 8KGO SPORTS MAÇ SAATI (FEED) 4K" group-title="TR| SPOR KANALI VIP",TR VIP: 8KGO SPORTS MAÇ SAATI (FEED) 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=401299&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR VIP: EUROSPORT 1 HD+" group-title="TR| SPOR KANALI VIP",TR VIP: EUROSPORT 1 HD+
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=401279&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR VIP: EUROSPORT 2 HD+" group-title="TR| SPOR KANALI VIP",TR VIP: EUROSPORT 2 HD+
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=401278&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR VIP: EXXEN SPORT 1 HD+" group-title="TR| SPOR KANALI VIP",TR VIP: EXXEN SPORT 1 HD+
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=401306&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR VIP: EXXEN SPORT 2 HD+" group-title="TR| SPOR KANALI VIP",TR VIP: EXXEN SPORT 2 HD+
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=401307&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR VIP: EXXEN SPORT 3 HD+" group-title="TR| SPOR KANALI VIP",TR VIP: EXXEN SPORT 3 HD+
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=401308&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR VIP: EXXEN SPORT 4 HD+" group-title="TR| SPOR KANALI VIP",TR VIP: EXXEN SPORT 4 HD+
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=401305&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR VIP: EXXEN SPORT 5 HD+" group-title="TR| SPOR KANALI VIP",TR VIP: EXXEN SPORT 5 HD+
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=401304&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR VIP: EXXEN SPORT 6 HD+" group-title="TR| SPOR KANALI VIP",TR VIP: EXXEN SPORT 6 HD+
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=401303&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR VIP: EXXEN SPORT 7 HD+" group-title="TR| SPOR KANALI VIP",TR VIP: EXXEN SPORT 7 HD+
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=401302&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR VIP: EXXEN SPORT 8 HD+" group-title="TR| SPOR KANALI VIP",TR VIP: EXXEN SPORT 8 HD+
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=401301&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR VIP: FB TV HD" group-title="TR| SPOR KANALI VIP",TR VIP: FB TV HD
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=401277&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR VIP: FIGHTBOX 4K" group-title="TR| SPOR KANALI VIP",TR VIP: FIGHTBOX 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=401276&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR VIP: GS TV HD" group-title="TR| SPOR KANALI VIP",TR VIP: GS TV HD
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=401281&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR VIP: NBA TV 4K" group-title="TR| SPOR KANALI VIP",TR VIP: NBA TV 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=401275&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR VIP: S SPORT+ 1 4K" group-title="TR| SPOR KANALI VIP",TR VIP: S SPORT+ 1 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=508592&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR VIP: S SPORT+ 2 4K" group-title="TR| SPOR KANALI VIP",TR VIP: S SPORT+ 2 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=508591&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR VIP: S SPORT+ 3 4K" group-title="TR| SPOR KANALI VIP",TR VIP: S SPORT+ 3 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=508590&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR VIP: S SPORT+ 4 4K" group-title="TR| SPOR KANALI VIP",TR VIP: S SPORT+ 4 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=508589&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR VIP: S SPORT+ 5 4K" group-title="TR| SPOR KANALI VIP",TR VIP: S SPORT+ 5 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=508588&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR VIP: S SPORT+ 6 4K" group-title="TR| SPOR KANALI VIP",TR VIP: S SPORT+ 6 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=508587&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR VIP: S SPORT 1 HD" group-title="TR| SPOR KANALI VIP",TR VIP: S SPORT 1 HD
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=401283&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR VIP: S SPORT 2 HD" group-title="TR| SPOR KANALI VIP",TR VIP: S SPORT 2 HD
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=401282&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR VIP: SPOR SMART 1 4K" group-title="TR| SPOR KANALI VIP",TR VIP: SPOR SMART 1 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=401274&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR VIP: SPOR SMART 2 4K" group-title="TR| SPOR KANALI VIP",TR VIP: SPOR SMART 2 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=401284&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR VIP: SPORTS TV" group-title="TR| SPOR KANALI VIP",TR VIP: SPORTS TV
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=401273&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR VIP: A SPOR HD+" group-title="TR| SPOR KANALI VIP",TR VIP: A SPOR HD+
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=401280&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR VIP: TIVIBU SPOR 1 4K" group-title="TR| SPOR KANALI VIP",TR VIP: TIVIBU SPOR 1 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=401272&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR VIP: TIVIBU SPOR 2 4K" group-title="TR| SPOR KANALI VIP",TR VIP: TIVIBU SPOR 2 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=401271&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR VIP: TIVIBU SPOR 3 4K" group-title="TR| SPOR KANALI VIP",TR VIP: TIVIBU SPOR 3 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=401270&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR VIP: TRT SPOR YıLDıZ HD+" group-title="TR| SPOR KANALI VIP",TR VIP: TRT SPOR YıLDıZ HD+
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=401269&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="###### SPOR KANALI LOCAL ######" group-title="TR| SPOR KANALI LOCAL",###### SPOR KANALI LOCAL ######
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=373929&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: HABER GLOBAL 4K" group-title="TR| HABER 4K",TR: HABER GLOBAL 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=200343&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT SPOR 4K" group-title="TR| SPOR KANALI LOCAL",TR: TRT SPOR 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=374967&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT SPOR 4K+" group-title="TR| SPOR KANALI LOCAL",TR: TRT SPOR 4K+
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=860767&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT SPOR RAW" group-title="TR| SPOR KANALI LOCAL",TR: TRT SPOR RAW
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=860766&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: A Spor 4K" group-title="TR| SPOR KANALI LOCAL",TR: A Spor 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=8679&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="####### TABII SPORT ᴿᴬᵂ #######" group-title="TR| TABII SPORT ᴿᴬᵂ",####### TABII SPORT ᴿᴬᵂ #######
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=1007240&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: TABII SPORT ᴿᴬᵂ" group-title="TR| TABII SPORT ᴿᴬᵂ",TR: TABII SPORT ᴿᴬᵂ
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=1069950&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: TABII SPORT 1 ᴿᴬᵂ" group-title="TR| TABII SPORT ᴿᴬᵂ",TR: TABII SPORT 1 ᴿᴬᵂ
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=1007239&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: TABII SPORT 2 ᴿᴬᵂ" group-title="TR| TABII SPORT ᴿᴬᵂ",TR: TABII SPORT 2 ᴿᴬᵂ
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=1007238&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: TABII SPORT 3 ᴿᴬᵂ" group-title="TR| TABII SPORT ᴿᴬᵂ",TR: TABII SPORT 3 ᴿᴬᵂ
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=1007237&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: TABII SPORT 4 ᴿᴬᵂ" group-title="TR| TABII SPORT ᴿᴬᵂ",TR: TABII SPORT 4 ᴿᴬᵂ
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=1007236&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: TABII SPORT 5 ᴿᴬᵂ" group-title="TR| TABII SPORT ᴿᴬᵂ",TR: TABII SPORT 5 ᴿᴬᵂ
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=1007235&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: TABII SPORT 6 ᴿᴬᵂ" group-title="TR| TABII SPORT ᴿᴬᵂ",TR: TABII SPORT 6 ᴿᴬᵂ
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=1007234&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: TABII SPORT YALDIZ ᴿᴬᵂ" group-title="TR| TABII SPORT ᴿᴬᵂ",TR: TABII SPORT YALDIZ ᴿᴬᵂ
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=1966389&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT 1 ᴿᴬᵂ" group-title="TR| TABII SPORT ᴿᴬᵂ",TR: TRT 1 ᴿᴬᵂ
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=1966388&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT SPORT ᴿᴬᵂ" group-title="TR| TABII SPORT ᴿᴬᵂ",TR: TRT SPORT ᴿᴬᵂ
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=1966387&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="###### BELGESEL 4K ######" group-title="TR| BELGESEL 4K",###### BELGESEL 4K ######
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=374148&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Dmax Turk 4K" group-title="TR| BELGESEL 4K",TR: Dmax Turk 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=19985&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: VIASAT HISTORY" group-title="TR| BELGESEL 4K",TR: VIASAT HISTORY
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=200353&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: VIASAT EXPLORE HD" group-title="TR| BELGESEL 4K",TR: VIASAT EXPLORE HD
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=587195&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: DISCOVERY CHANNEL HD" group-title="TR| BELGESEL 4K",TR: DISCOVERY CHANNEL HD
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=200346&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: DISCOVERY SCIENCE HD" group-title="TR| BELGESEL 4K",TR: DISCOVERY SCIENCE HD
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=200347&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: DISCOVERY SCIENCE" group-title="TR| BELGESEL 4K",TR: DISCOVERY SCIENCE
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=200361&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: DISCOVERY ID 4K" group-title="TR| BELGESEL 4K",TR: DISCOVERY ID 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=200348&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: NAT GEO 4K" group-title="TR| BELGESEL 4K",TR: NAT GEO 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=200362&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: NAT GEO HD" group-title="TR| BELGESEL 4K",TR: NAT GEO HD
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=200332&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: NAT GEO WILD" group-title="TR| BELGESEL 4K",TR: NAT GEO WILD
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=200363&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: BBC EARTH" group-title="TR| BELGESEL 4K",TR: BBC EARTH
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=200352&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: HISTORY 4K" group-title="TR| BELGESEL 4K",TR: HISTORY 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=587194&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT Belgelel 4K" group-title="TR| BELGESEL 4K",TR: TRT Belgelel 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=4532&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: TLC 4K" group-title="TR| BELGESEL 4K",TR: TLC 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=157588&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT BELGESEL 4K" group-title="TR| BELGESEL 4K",TR: TRT BELGESEL 4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=3389&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: TLC HD" group-title="TR| BELGESEL 4K",TR: TLC HD
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=281702&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: ANIMAL PLANET" group-title="TR| BELGESEL 4K",TR: ANIMAL PLANET
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=200355&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Love Nature  4K" group-title="TR| BELGESEL 4K",TR: Love Nature  4K
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=736326&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="####### REDBOX 24/7 ᴿᴬᵂ #######" group-title="TR| REDBOX 24/7 ᴿᴬᵂ",####### REDBOX 24/7 ᴿᴬᵂ #######
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=1275583&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: 007 ᴿᴬᵂ" group-title="TR| REDBOX 24/7 ᴿᴬᵂ",TR: 007 ᴿᴬᵂ
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=1275556&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: AKSIYON 1 ᴿᴬᵂ" group-title="TR| REDBOX 24/7 ᴿᴬᵂ",TR: AKSIYON 1 ᴿᴬᵂ
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=1275555&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: AKSIYON 2 ᴿᴬᵂ" group-title="TR| REDBOX 24/7 ᴿᴬᵂ",TR: AKSIYON 2 ᴿᴬᵂ
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=1275554&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: AKSIYON 3 ᴿᴬᵂ" group-title="TR| REDBOX 24/7 ᴿᴬᵂ",TR: AKSIYON 3 ᴿᴬᵂ
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=1275553&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: ANIMASYON 1 ᴿᴬᵂ" group-title="TR| REDBOX 24/7 ᴿᴬᵂ",TR: ANIMASYON 1 ᴿᴬᵂ
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=1275552&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: ANIMASYON 2 ᴿᴬᵂ" group-title="TR| REDBOX 24/7 ᴿᴬᵂ",TR: ANIMASYON 2 ᴿᴬᵂ
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=1275551&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: BELGESEL ᴿᴬᵂ" group-title="TR| REDBOX 24/7 ᴿᴬᵂ",TR: BELGESEL ᴿᴬᵂ
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=1275550&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: BILIMKURGU 1 ᴿᴬᵂ" group-title="TR| REDBOX 24/7 ᴿᴬᵂ",TR: BILIMKURGU 1 ᴿᴬᵂ
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=1275549&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: BILIMKURGU 2 ᴿᴬᵂ" group-title="TR| REDBOX 24/7 ᴿᴬᵂ",TR: BILIMKURGU 2 ᴿᴬᵂ
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=1275548&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: GOLD MIX ᴿᴬᵂ" group-title="TR| REDBOX 24/7 ᴿᴬᵂ",TR: GOLD MIX ᴿᴬᵂ
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=1275547&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: KOMEDI 90&#039;LAR ᴿᴬᵂ" group-title="TR| REDBOX 24/7 ᴿᴬᵂ",TR: KOMEDI 90&#039;LAR ᴿᴬᵂ
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=1275546&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: MARVEL ᴿᴬᵂ" group-title="TR| REDBOX 24/7 ᴿᴬᵂ",TR: MARVEL ᴿᴬᵂ
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=1275545&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: SINEMA TURK 1 ᴿᴬᵂ" group-title="TR| REDBOX 24/7 ᴿᴬᵂ",TR: SINEMA TURK 1 ᴿᴬᵂ
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=1275544&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: SINEMA TURK 2 ᴿᴬᵂ" group-title="TR| REDBOX 24/7 ᴿᴬᵂ",TR: SINEMA TURK 2 ᴿᴬᵂ
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=1275543&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: SINEMA TURK 3 ᴿᴬᵂ" group-title="TR| REDBOX 24/7 ᴿᴬᵂ",TR: SINEMA TURK 3 ᴿᴬᵂ
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=1275542&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: TURKCE SHOW ᴿᴬᵂ" group-title="TR| REDBOX 24/7 ᴿᴬᵂ",TR: TURKCE SHOW ᴿᴬᵂ
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=1275541&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: VIZYON 1 ᴿᴬᵂ" group-title="TR| REDBOX 24/7 ᴿᴬᵂ",TR: VIZYON 1 ᴿᴬᵂ
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=1275540&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: VIZYON 2 ᴿᴬᵂ" group-title="TR| REDBOX 24/7 ᴿᴬᵂ",TR: VIZYON 2 ᴿᴬᵂ
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=1275539&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: YESILCAM ᴿᴬᵂ" group-title="TR| REDBOX 24/7 ᴿᴬᵂ",TR: YESILCAM ᴿᴬᵂ
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=1275538&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="###### TURKISH +6H  NA ######" group-title="TR| TURKISH +6H NA",###### TURKISH +6H  NA ######
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=557175&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: ATV 4K +6H" group-title="TR| TURKISH +6H NA",TR: ATV 4K +6H
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=557174&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: SHOW TV 4K +6H" group-title="TR| TURKISH +6H NA",TR: SHOW TV 4K +6H
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=557173&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: NOW 4K +6H" group-title="TR| TURKISH +6H NA",TR: NOW 4K +6H
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=557172&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: KANAL D 4K +6H" group-title="TR| TURKISH +6H NA",TR: KANAL D 4K +6H
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=557171&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: KANAL 7 4K +6H" group-title="TR| TURKISH +6H NA",TR: KANAL 7 4K +6H
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=557170&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: STAR TV 4K +6H" group-title="TR| TURKISH +6H NA",TR: STAR TV 4K +6H
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=557169&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: TV8 4K +6H" group-title="TR| TURKISH +6H NA",TR: TV8 4K +6H
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=557168&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: A2 TURKIYA 4K +6H" group-title="TR| TURKISH +6H NA",TR: A2 TURKIYA 4K +6H
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=557167&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: TEVE 2 4K +6H" group-title="TR| TURKISH +6H NA",TR: TEVE 2 4K +6H
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=557166&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT 1 4K +6H" group-title="TR| TURKISH +6H NA",TR: TRT 1 4K +6H
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=557165&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT AVAZ 4K +6H" group-title="TR| TURKISH +6H NA",TR: TRT AVAZ 4K +6H
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=557164&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT DIYANET TV 4K +6H" group-title="TR| TURKISH +6H NA",TR: TRT DIYANET TV 4K +6H
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=557163&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT TURK 4K +6H" group-title="TR| TURKISH +6H NA",TR: TRT TURK 4K +6H
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=557162&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT WORLD 4K +6H" group-title="TR| TURKISH +6H NA",TR: TRT WORLD 4K +6H
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=557161&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT HABER 4K +6H" group-title="TR| TURKISH +6H NA",TR: TRT HABER 4K +6H
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=557160&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT ÇOCUK 4K +6H" group-title="TR| TURKISH +6H NA",TR: TRT ÇOCUK 4K +6H
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=557159&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT BELGELEL 4K +6H" group-title="TR| TURKISH +6H NA",TR: TRT BELGELEL 4K +6H
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=557158&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT BELGESEL 4K +6H" group-title="TR| TURKISH +6H NA",TR: TRT BELGESEL 4K +6H
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=557157&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT MUZIK 4K +6H" group-title="TR| TURKISH +6H NA",TR: TRT MUZIK 4K +6H
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=557156&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT SPORT 4K +6H" group-title="TR| TURKISH +6H NA",TR: TRT SPORT 4K +6H
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=557155&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT SPOR YILDIZ 4K +6H" group-title="TR| TURKISH +6H NA",TR: TRT SPOR YILDIZ 4K +6H
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=557154&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: HABER TURK 4K +6H" group-title="TR| TURKISH +6H NA",TR: HABER TURK 4K +6H
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=557153&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Rumeli TV +6H" group-title="TR| TURKISH +6H NA",TR: Rumeli TV +6H
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=557152&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: TV8.5 4K +6H" group-title="TR| TURKISH +6H NA",TR: TV8.5 4K +6H
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=557151&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: TLC 4K +6H" group-title="TR| TURKISH +6H NA",TR: TLC 4K +6H
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=557150&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: BRT 1 KKTC 4K +6H" group-title="TR| TURKISH +6H NA",TR: BRT 1 KKTC 4K +6H
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=557149&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: BRT 2 KKTC 4K +6H" group-title="TR| TURKISH +6H NA",TR: BRT 2 KKTC 4K +6H
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=557148&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: BRT 3 4K +6H" group-title="TR| TURKISH +6H NA",TR: BRT 3 4K +6H
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=557147&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: SAT 7 TURK +6H" group-title="TR| TURKISH +6H NA",TR: SAT 7 TURK +6H
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=557146&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: KRT TV 4K +6H" group-title="TR| TURKISH +6H NA",TR: KRT TV 4K +6H
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=557145&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: CNN TURK 4K +6H" group-title="TR| TURKISH +6H NA",TR: CNN TURK 4K +6H
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=557144&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: POWER TURK 4K +6H" group-title="TR| TURKISH +6H NA",TR: POWER TURK 4K +6H
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=557143&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: POWER 4K +6H" group-title="TR| TURKISH +6H NA",TR: POWER 4K +6H
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=557142&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: KRAL POP 4K +6H" group-title="TR| TURKISH +6H NA",TR: KRAL POP 4K +6H
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=557141&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: HABER GLOBAL 4K +6H" group-title="TR| TURKISH +6H NA",TR: HABER GLOBAL 4K +6H
+http://pro.testbestrest.one/play/live.php?mac=00:1A:79:79:31:02&stream=557140&extension=ts
